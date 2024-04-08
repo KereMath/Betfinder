@@ -1,0 +1,13 @@
+SITES:
+(Done) https://www.admiralbet.me/sport-prematch?sport=Football       VPN
+(Change matches)https://m.volcanobet.me/prematch/1                   NO VPN
+(Kerem)https://meridianbet.me/en/betting                             VPN
+(DONE)https://m.sbbet.me/sport                                   VPN  
+(DONE) https://maxbet.me/prematch            VPN
+(DONE)https://www.lobbet.me/ibet-web-client/    NO VPN
+(DONE)https://www.premier-kladionica.com/                       NO VPN  
+(Untouched)https://www.metbet.me/                                    NO VPN  
+(DONE) https://sansabet.com/                                     NO VPN 
+(Untouched (Burak: I get SSL error))https://m.zlatnik.me/                                     VPN
+(DONE) https://www.hatbet.me/         VPN
+(DONE) https://www.soccerbet.me/                                 NO VPN

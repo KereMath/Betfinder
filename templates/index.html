@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login - Sure Bets</title>
+    <script>
+        async function fetchSureBets() {
+            const response = await fetch('/surebets.json');
+            if (!response.ok) {
+                const message = `An error occurred: ${response.statusText}`;
+                document.getElementById('data').innerHTML = message;
+                return;
+            }
+            const bets = await response.json();
+            buildTable(bets);
+        }
+
+        function buildTable(data) {
+            const displayArea = document.getElementById('data');
+            displayArea.innerHTML = "";
+            const table = document.createElement('table');
+            table.setAttribute('border', '1');
+            const columnOrder = [
+                "Home Team", "Away Team", 
+                "Highest Home Odds", "Highest Draw Odds", "Highest Away Odds", 
+                "Source Home", "Source Draw", "Source Away", 
+                "Home Bet Multiple", "Draw Bet Multiple", "Away Bet Multiple", 
+                "M", "PROFIT"
+            ];
+            const thead = document.createElement('thead');
+            const headerRow = document.createElement('tr');
+            columnOrder.forEach(headerText => {
+                const header = document.createElement('th');
+                header.textContent = headerText;
+                headerRow.appendChild(header);
+            });
+            thead.appendChild(headerRow);
+            table.appendChild(thead);
+            const tbody = document.createElement('tbody');
+            data.forEach(item => {
+                const row = document.createElement('tr');
+                columnOrder.forEach(column => {
+                    const cell = document.createElement('td');
+                    cell.textContent = item[column];
+                    row.appendChild(cell);
+                });
+                tbody.appendChild(row);
+            });
+            table.appendChild(tbody);
+            displayArea.appendChild(table);
+        }
+
+        function checkLogin() {
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+            if(username === 'Akay14' && password === 'Milada14') {
+                document.getElementById('loginForm').style.display = 'none';
+                document.getElementById('content').style.display = 'block';
+                fetchSureBets();
+                setInterval(fetchSureBets, 60000); // Refresh every 5 seconds
+            } else {
+                alert('Invalid credentials!');
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('content').style.display = 'none';
+        });
+    </script>
+</head>
+<body>
+    <div id="loginForm">
+        <h2>Login</h2>
+        Username: <input type="text" id="username"><br>
+        Password: <input type="password" id="password"><br>
+        <button onclick="checkLogin()">Login</button>
+    </div>
+    <div id="content">
+        <h1>Sure Bets</h1>
+        <div id="data">Loading...</div>
+    </div>
+</body>
+</html>

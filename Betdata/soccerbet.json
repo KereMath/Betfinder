@@ -1,0 +1,3936 @@
+[
+    {
+        "Home Team": "Inter Palmira",
+        "Away Team": "Santa Fe",
+        "Home": 5.85,
+        "Draw": 4.2,
+        "Away": 1.53
+    },
+    {
+        "Home Team": "Midland",
+        "Away Team": "Villa San Carlos",
+        "Home": 2.3,
+        "Draw": 3.0,
+        "Away": 3.15
+    },
+    {
+        "Home Team": "Venezuela Wom.",
+        "Away Team": "Panama Wom.",
+        "Home": 1.3,
+        "Draw": 4.6,
+        "Away": 9.9
+    },
+    {
+        "Home Team": "Godoy Cruz",
+        "Away Team": "Sarmiento Junin",
+        "Home": 1.67,
+        "Draw": 3.4,
+        "Away": 5.85
+    },
+    {
+        "Home Team": "Platense",
+        "Away Team": "Tigre",
+        "Home": 2.12,
+        "Draw": 2.95,
+        "Away": 4.0
+    },
+    {
+        "Home Team": "Independiente Petrolero",
+        "Away Team": "Guabira",
+        "Home": 1.65,
+        "Draw": 3.55,
+        "Away": 5.05
+    },
+    {
+        "Home Team": "Barnechea",
+        "Away Team": "San Luis",
+        "Home": 2.05,
+        "Draw": 3.4,
+        "Away": 3.3
+    },
+    {
+        "Home Team": "Deportes Temuco",
+        "Away Team": "S. Morning",
+        "Home": 2.75,
+        "Draw": 3.35,
+        "Away": 2.35
+    },
+    {
+        "Home Team": "Provincial Ovalle",
+        "Away Team": "San Antonio Unido",
+        "Home": 1.85,
+        "Draw": 3.7,
+        "Away": 3.65
+    },
+    {
+        "Home Team": "Imbabura",
+        "Away Team": "Macara",
+        "Home": 3.3,
+        "Draw": 3.15,
+        "Away": 2.25
+    },
+    {
+        "Home Team": "Genesis Huracan",
+        "Away Team": "CD Real Sociedad",
+        "Home": 1.98,
+        "Draw": 3.15,
+        "Away": 3.8
+    },
+    {
+        "Home Team": "Atletico Atlanta",
+        "Away Team": "Temperley",
+        "Home": 2.6,
+        "Draw": 2.8,
+        "Away": 3.1
+    },
+    {
+        "Home Team": "Nantong Zhiyun",
+        "Away Team": "Shanghai Port",
+        "Home": 6.0,
+        "Draw": 4.2,
+        "Away": 1.52
+    },
+    {
+        "Home Team": "Portimonense U23",
+        "Away Team": "Leixoes U23",
+        "Home": 1.68,
+        "Draw": 4.05,
+        "Away": 4.1
+    },
+    {
+        "Home Team": "SC Farense U23",
+        "Away Team": "Rio Ave U23",
+        "Home": 2.4,
+        "Draw": 3.65,
+        "Away": 2.5
+    },
+    {
+        "Home Team": "Dnipro-1",
+        "Away Team": "Zorya Luhansk",
+        "Home": 1.63,
+        "Draw": 3.8,
+        "Away": 5.35
+    },
+    {
+        "Home Team": "Santa Clara U23",
+        "Away Team": "Academico Viseu U23",
+        "Home": 1.9,
+        "Draw": 3.8,
+        "Away": 3.35
+    },
+    {
+        "Home Team": "Jamshedpur",
+        "Away Team": "Goa",
+        "Home": 4.05,
+        "Draw": 3.75,
+        "Away": 1.75
+    },
+    {
+        "Home Team": "Beijing Guoan",
+        "Away Team": "Shenzhen Peng City",
+        "Home": 1.48,
+        "Draw": 4.2,
+        "Away": 6.7
+    },
+    {
+        "Home Team": "Shandong Taishan",
+        "Away Team": "Henan Songshan Longmen",
+        "Home": 1.53,
+        "Draw": 4.3,
+        "Away": 5.7
+    },
+    {
+        "Home Team": "Azerbaijan Wom.",
+        "Away Team": "Switzerland Wom.",
+        "Home": 30.0,
+        "Draw": 10.0,
+        "Away": 1.05
+    },
+    {
+        "Home Team": "Bristol City U21",
+        "Away Team": "Sheffield Wed U21",
+        "Home": 2.55,
+        "Draw": 3.7,
+        "Away": 2.35
+    },
+    {
+        "Home Team": "Ipswich U21",
+        "Away Team": "Burnley U21",
+        "Home": 1.67,
+        "Draw": 4.6,
+        "Away": 3.7
+    },
+    {
+        "Home Team": "Millwall U21",
+        "Away Team": "Coventry U21",
+        "Home": 1.2,
+        "Draw": 6.85,
+        "Away": 9.4
+    },
+    {
+        "Home Team": "QPR U21",
+        "Away Team": "Crewe U21",
+        "Home": 1.24,
+        "Draw": 6.35,
+        "Away": 8.4
+    },
+    {
+        "Home Team": "Cardiff U21",
+        "Away Team": "Wigan U21",
+        "Home": 2.33,
+        "Draw": 3.8,
+        "Away": 2.55
+    },
+    {
+        "Home Team": "Shanghai Shenhua",
+        "Away Team": "Wuhan Three Towns",
+        "Home": 1.47,
+        "Draw": 4.45,
+        "Away": 6.4
+    },
+    {
+        "Home Team": "Vizela U23",
+        "Away Team": "Benfica U23",
+        "Home": 2.75,
+        "Draw": 3.7,
+        "Away": 2.2
+    },
+    {
+        "Home Team": "Bosnia & Herzegovina Wom.",
+        "Away Team": "Northern Ireland Wom.",
+        "Home": 2.5,
+        "Draw": 3.3,
+        "Away": 2.6
+    },
+    {
+        "Home Team": "Croatia Wom.",
+        "Away Team": "Ukraine Wom.",
+        "Home": 5.35,
+        "Draw": 3.8,
+        "Away": 1.57
+    },
+    {
+        "Home Team": "Israel Wom.",
+        "Away Team": "Serbia Wom.",
+        "Home": 26.5,
+        "Draw": 8.7,
+        "Away": 1.1
+    },
+    {
+        "Home Team": "Chennaiyin",
+        "Away Team": "North East Utd",
+        "Home": 2.22,
+        "Draw": 3.55,
+        "Away": 2.85
+    },
+    {
+        "Home Team": "Valmiera",
+        "Away Team": "Grobina",
+        "Home": 1.33,
+        "Draw": 5.2,
+        "Away": 7.1
+    },
+    {
+        "Home Team": "Montenegro Wom.",
+        "Away Team": "Faroe Islands Wom.",
+        "Home": 1.04,
+        "Draw": 12.0,
+        "Away": 30.0
+    },
+    {
+        "Home Team": "Moldova Wom.",
+        "Away Team": "Latvia Wom.",
+        "Home": 5.95,
+        "Draw": 4.15,
+        "Away": 1.48
+    },
+    {
+        "Home Team": "FK Liepaja",
+        "Away Team": "Auda",
+        "Home": 3.25,
+        "Draw": 3.1,
+        "Away": 2.2
+    },
+    {
+        "Home Team": "Lok. Sofia",
+        "Away Team": "Beroe",
+        "Home": 2.65,
+        "Draw": 3.25,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Denmark Wom.",
+        "Away Team": "Belgium Wom.",
+        "Home": 1.45,
+        "Draw": 4.2,
+        "Away": 6.45
+    },
+    {
+        "Home Team": "Poland Wom.",
+        "Away Team": "Austria Wom.",
+        "Home": 4.1,
+        "Draw": 3.7,
+        "Away": 1.75
+    },
+    {
+        "Home Team": "Belarus Wom.",
+        "Away Team": "Georgia Wom.",
+        "Home": 1.04,
+        "Draw": 11.2,
+        "Away": 28.0
+    },
+    {
+        "Home Team": "Romania Wom.",
+        "Away Team": "Kazakhstan Wom.",
+        "Home": 1.12,
+        "Draw": 8.3,
+        "Away": 22.0
+    },
+    {
+        "Home Team": "Estoril U23",
+        "Away Team": "Torreense U23",
+        "Home": 1.5,
+        "Draw": 4.1,
+        "Away": 5.5
+    },
+    {
+        "Home Team": "Famalicao U23",
+        "Away Team": "Estrela U23",
+        "Home": 1.68,
+        "Draw": 3.7,
+        "Away": 4.45
+    },
+    {
+        "Home Team": "Sporting CP U23",
+        "Away Team": "Gil Vicente U23",
+        "Home": 1.52,
+        "Draw": 4.5,
+        "Away": 4.9
+    },
+    {
+        "Home Team": "Germany Wom.",
+        "Away Team": "Iceland Wom.",
+        "Home": 1.12,
+        "Draw": 7.1,
+        "Away": 19.8
+    },
+    {
+        "Home Team": "Finland Wom.",
+        "Away Team": "Italy Wom.",
+        "Home": 4.25,
+        "Draw": 3.85,
+        "Away": 1.7
+    },
+    {
+        "Home Team": "Lithuania Wom.",
+        "Away Team": "Cyprus Wom.",
+        "Home": 2.2,
+        "Draw": 3.4,
+        "Away": 3.0
+    },
+    {
+        "Home Team": "Maribor",
+        "Away Team": "Mura",
+        "Home": 1.43,
+        "Draw": 4.6,
+        "Away": 6.9
+    },
+    {
+        "Home Team": "Sweden Wom.",
+        "Away Team": "France Wom.",
+        "Home": 3.05,
+        "Draw": 3.35,
+        "Away": 2.15
+    },
+    {
+        "Home Team": "Turkey Wom.",
+        "Away Team": "Hungary Wom.",
+        "Home": 2.9,
+        "Draw": 3.5,
+        "Away": 2.2
+    },
+    {
+        "Home Team": "Helsingborg",
+        "Away Team": "Brage",
+        "Home": 2.3,
+        "Draw": 3.4,
+        "Away": 3.0
+    },
+    {
+        "Home Team": "Cape Town Spurs",
+        "Away Team": "Mamelodi Sundowns",
+        "Home": 6.9,
+        "Draw": 4.25,
+        "Away": 1.42
+    },
+    {
+        "Home Team": "Goytre United",
+        "Away Team": "Caerau Ely",
+        "Home": 2.6,
+        "Draw": 4.0,
+        "Away": 2.23
+    },
+    {
+        "Home Team": "Albania Wom.",
+        "Away Team": "Estonia Wom.",
+        "Home": 1.75,
+        "Draw": 3.8,
+        "Away": 3.95
+    },
+    {
+        "Home Team": "Fenix",
+        "Away Team": "Sportivo Italiano",
+        "Home": 2.7,
+        "Draw": 2.7,
+        "Away": 2.9
+    },
+    {
+        "Home Team": "Ireland Wom.",
+        "Away Team": "England Wom.",
+        "Home": 15.3,
+        "Draw": 6.1,
+        "Away": 1.17
+    },
+    {
+        "Home Team": "Scotland Wom.",
+        "Away Team": "Slovakia Wom.",
+        "Home": 1.27,
+        "Draw": 5.25,
+        "Away": 9.4
+    },
+    {
+        "Home Team": "Sholing",
+        "Away Team": "Dorchester",
+        "Home": 2.2,
+        "Draw": 3.65,
+        "Away": 2.8
+    },
+    {
+        "Home Team": "Netherlands Wom.",
+        "Away Team": "Norway Wom.",
+        "Home": 1.7,
+        "Draw": 3.6,
+        "Away": 4.45
+    },
+    {
+        "Home Team": "Millwall",
+        "Away Team": "Leicester",
+        "Home": 5.15,
+        "Draw": 3.75,
+        "Away": 1.72
+    },
+    {
+        "Home Team": "Plymouth",
+        "Away Team": "QPR",
+        "Home": 3.2,
+        "Draw": 3.25,
+        "Away": 2.35
+    },
+    {
+        "Home Team": "Preston",
+        "Away Team": "Huddersfield",
+        "Home": 2.3,
+        "Draw": 3.3,
+        "Away": 3.3
+    },
+    {
+        "Home Team": "Sheffield Wed",
+        "Away Team": "Norwich",
+        "Home": 3.1,
+        "Draw": 3.45,
+        "Away": 2.33
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Coventry",
+        "Home": 1.77,
+        "Draw": 4.3,
+        "Away": 4.1
+    },
+    {
+        "Home Team": "Blackpool",
+        "Away Team": "Fleetwood",
+        "Home": 1.67,
+        "Draw": 3.8,
+        "Away": 5.0
+    },
+    {
+        "Home Team": "Bristol Rovers",
+        "Away Team": "Reading",
+        "Home": 2.7,
+        "Draw": 3.6,
+        "Away": 2.42
+    },
+    {
+        "Home Team": "Charlton",
+        "Away Team": "Wigan",
+        "Home": 1.92,
+        "Draw": 3.4,
+        "Away": 4.05
+    },
+    {
+        "Home Team": "Cheltenham",
+        "Away Team": "Carlisle",
+        "Home": 1.63,
+        "Draw": 3.9,
+        "Away": 5.2
+    },
+    {
+        "Home Team": "Leyton Orient",
+        "Away Team": "Exeter",
+        "Home": 1.85,
+        "Draw": 3.6,
+        "Away": 4.15
+    },
+    {
+        "Home Team": "Stevenage",
+        "Away Team": "Barnsley",
+        "Home": 2.35,
+        "Draw": 3.35,
+        "Away": 2.95
+    },
+    {
+        "Home Team": "Barrow",
+        "Away Team": "Bradford City",
+        "Home": 2.07,
+        "Draw": 3.45,
+        "Away": 3.45
+    },
+    {
+        "Home Team": "Colchester",
+        "Away Team": "Stockport County",
+        "Home": 4.1,
+        "Draw": 3.65,
+        "Away": 1.85
+    },
+    {
+        "Home Team": "Doncaster",
+        "Away Team": "Walsall",
+        "Home": 2.2,
+        "Draw": 3.55,
+        "Away": 3.1
+    },
+    {
+        "Home Team": "Harrogate Town",
+        "Away Team": "Grimsby",
+        "Home": 2.7,
+        "Draw": 3.45,
+        "Away": 2.47
+    },
+    {
+        "Home Team": "Mansfield",
+        "Away Team": "Forest Green",
+        "Home": 1.34,
+        "Draw": 5.35,
+        "Away": 7.8
+    },
+    {
+        "Home Team": "Morecambe",
+        "Away Team": "Crewe",
+        "Home": 2.75,
+        "Draw": 3.35,
+        "Away": 2.5
+    },
+    {
+        "Home Team": "Newport",
+        "Away Team": "Accrington",
+        "Home": 2.43,
+        "Draw": 3.65,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Wrexham",
+        "Away Team": "Crawley",
+        "Home": 1.57,
+        "Draw": 4.4,
+        "Away": 5.05
+    },
+    {
+        "Home Team": "Barnet",
+        "Away Team": "Bromley",
+        "Home": 1.68,
+        "Draw": 3.9,
+        "Away": 4.25
+    },
+    {
+        "Home Team": "Gateshead",
+        "Away Team": "Aldershot",
+        "Home": 1.67,
+        "Draw": 4.05,
+        "Away": 4.1
+    },
+    {
+        "Home Team": "Maidenhead",
+        "Away Team": "Hartlepool",
+        "Home": 2.15,
+        "Draw": 3.5,
+        "Away": 3.0
+    },
+    {
+        "Home Team": "Rochdale",
+        "Away Team": "Boreham Wood",
+        "Home": 2.37,
+        "Draw": 3.25,
+        "Away": 2.8
+    },
+    {
+        "Home Team": "Solihull Moors",
+        "Away Team": "Ebbsfleet",
+        "Home": 2.23,
+        "Draw": 3.65,
+        "Away": 2.75
+    },
+    {
+        "Home Team": "Wealdstone",
+        "Away Team": "Southend",
+        "Home": 4.0,
+        "Draw": 3.65,
+        "Away": 1.78
+    },
+    {
+        "Home Team": "Braintree",
+        "Away Team": "Taunton",
+        "Home": 1.62,
+        "Draw": 3.85,
+        "Away": 4.85
+    },
+    {
+        "Home Team": "Dartford",
+        "Away Team": "Worthing",
+        "Home": 3.4,
+        "Draw": 3.75,
+        "Away": 1.9
+    },
+    {
+        "Home Team": "Hampton & Richmond Borough",
+        "Away Team": "Bath",
+        "Home": 2.45,
+        "Draw": 3.35,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Maidstone",
+        "Away Team": "Weymouth",
+        "Home": 1.7,
+        "Draw": 3.75,
+        "Away": 4.4
+    },
+    {
+        "Home Team": "Weston Super Mare FC",
+        "Away Team": "Chippenham Town",
+        "Home": 2.22,
+        "Draw": 3.5,
+        "Away": 2.85
+    },
+    {
+        "Home Team": "Alfreton",
+        "Away Team": "Gloucester",
+        "Home": 1.25,
+        "Draw": 5.55,
+        "Away": 9.6
+    },
+    {
+        "Home Team": "King's Lynn",
+        "Away Team": "Chorley",
+        "Home": 3.25,
+        "Draw": 3.5,
+        "Away": 2.03
+    },
+    {
+        "Home Team": "Peterborough Sports",
+        "Away Team": "Farsley",
+        "Home": 1.88,
+        "Draw": 3.35,
+        "Away": 3.85
+    },
+    {
+        "Home Team": "Rushall",
+        "Away Team": "Bishop's Stortford",
+        "Home": 1.12,
+        "Draw": 7.7,
+        "Away": 16.7
+    },
+    {
+        "Home Team": "Spennymoor",
+        "Away Team": "Banbury",
+        "Home": 1.23,
+        "Draw": 5.7,
+        "Away": 10.3
+    },
+    {
+        "Home Team": "Canvey",
+        "Away Team": "Lewes",
+        "Home": 2.75,
+        "Draw": 3.75,
+        "Away": 2.2
+    },
+    {
+        "Home Team": "Hornchurch",
+        "Away Team": "Cray Wanderers",
+        "Home": 1.29,
+        "Draw": 5.35,
+        "Away": 8.2
+    },
+    {
+        "Home Team": "Potters Bar",
+        "Away Team": "Horsham FC",
+        "Home": 4.3,
+        "Draw": 4.25,
+        "Away": 1.62
+    },
+    {
+        "Home Team": "Whitehawk",
+        "Away Team": "Concord",
+        "Home": 1.55,
+        "Draw": 4.2,
+        "Away": 5.05
+    },
+    {
+        "Home Team": "Wingate & Finchley",
+        "Away Team": "Hastings",
+        "Home": 2.38,
+        "Draw": 3.6,
+        "Away": 2.6
+    },
+    {
+        "Home Team": "Kettering",
+        "Away Team": "Leiston",
+        "Home": 2.55,
+        "Draw": 3.55,
+        "Away": 2.4
+    },
+    {
+        "Home Team": "Stourbridge",
+        "Away Team": "Leamington",
+        "Home": 2.65,
+        "Draw": 3.3,
+        "Away": 2.47
+    },
+    {
+        "Home Team": "Needham Market",
+        "Away Team": "Stamford",
+        "Home": 1.82,
+        "Draw": 3.8,
+        "Away": 3.7
+    },
+    {
+        "Home Team": "Hayes & Yeading",
+        "Away Team": "Basingstoke",
+        "Home": 2.2,
+        "Draw": 3.75,
+        "Away": 2.75
+    },
+    {
+        "Home Team": "Plymouth Parkway",
+        "Away Team": "Harrow",
+        "Home": 1.6,
+        "Draw": 4.35,
+        "Away": 4.4
+    },
+    {
+        "Home Team": "Poole",
+        "Away Team": "Winchester",
+        "Home": 2.12,
+        "Draw": 3.9,
+        "Away": 2.8
+    },
+    {
+        "Home Team": "Tiverton",
+        "Away Team": "Gosport",
+        "Home": 3.05,
+        "Draw": 3.65,
+        "Away": 2.07
+    },
+    {
+        "Home Team": "Bamber Bridge",
+        "Away Team": "Macclesfield",
+        "Home": 4.8,
+        "Draw": 4.2,
+        "Away": 1.55
+    },
+    {
+        "Home Team": "Guiseley",
+        "Away Team": "Worksop",
+        "Home": 3.05,
+        "Draw": 3.25,
+        "Away": 2.2
+    },
+    {
+        "Home Team": "Matlock",
+        "Away Team": "Ashton Utd",
+        "Home": 3.3,
+        "Draw": 3.85,
+        "Away": 1.9
+    },
+    {
+        "Home Team": "TNS",
+        "Away Team": "Bala",
+        "Home": 1.23,
+        "Draw": 6.3,
+        "Away": 10.8
+    },
+    {
+        "Home Team": "Ayr",
+        "Away Team": "Morton",
+        "Home": 2.9,
+        "Draw": 3.35,
+        "Away": 2.4
+    },
+    {
+        "Home Team": "Raith",
+        "Away Team": "Airdrieonians",
+        "Home": 2.0,
+        "Draw": 3.5,
+        "Away": 3.65
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Bayern Munich",
+        "Home": 1.75,
+        "Draw": 4.0,
+        "Away": 4.65
+    },
+    {
+        "Home Team": "Real Madrid",
+        "Away Team": "Manchester City",
+        "Home": 2.7,
+        "Draw": 3.55,
+        "Away": 2.55
+    },
+    {
+        "Home Team": "Leeds",
+        "Away Team": "Sunderland",
+        "Home": 1.34,
+        "Draw": 5.6,
+        "Away": 8.8
+    },
+    {
+        "Home Team": "El Gouna",
+        "Away Team": "Pyramids",
+        "Home": 5.6,
+        "Draw": 4.0,
+        "Away": 1.58
+    },
+    {
+        "Home Team": "Argentinos Jrs",
+        "Away Team": "Racing Montevideo",
+        "Home": 1.4,
+        "Draw": 4.45,
+        "Away": 8.4
+    },
+    {
+        "Home Team": "Corinthians",
+        "Away Team": "Nacional Asuncion",
+        "Home": 1.35,
+        "Draw": 4.5,
+        "Away": 9.4
+    },
+    {
+        "Home Team": "Estudiantes L.P",
+        "Away Team": "The Strongest",
+        "Home": 1.22,
+        "Draw": 5.8,
+        "Away": 13.4
+    },
+    {
+        "Home Team": "Gremio",
+        "Away Team": "Huachipato",
+        "Home": 1.27,
+        "Draw": 5.65,
+        "Away": 10.2
+    },
+    {
+        "Home Team": "Boca Juniors",
+        "Away Team": "Sportivo Trinidense",
+        "Home": 1.21,
+        "Draw": 6.0,
+        "Away": 14.7
+    },
+    {
+        "Home Team": "Fluminense",
+        "Away Team": "Colo Colo",
+        "Home": 1.5,
+        "Draw": 4.0,
+        "Away": 6.85
+    },
+    {
+        "Home Team": "Libertad Asuncion",
+        "Away Team": "Dep. Tachira",
+        "Home": 1.35,
+        "Draw": 4.9,
+        "Away": 8.4
+    },
+    {
+        "Home Team": "Cancun",
+        "Away Team": "Dorados de Sinaloa",
+        "Home": 1.4,
+        "Draw": 4.4,
+        "Away": 6.8
+    },
+    {
+        "Home Team": "Athletico-PR",
+        "Away Team": "Rayo Zuliano",
+        "Home": 1.03,
+        "Draw": 13.3,
+        "Away": 55.0
+    },
+    {
+        "Home Team": "Danubio",
+        "Away Team": "Ameliano",
+        "Home": 1.9,
+        "Draw": 3.4,
+        "Away": 4.15
+    },
+    {
+        "Home Team": "U.A.N.L.- Tigres",
+        "Away Team": "Columbus Crew",
+        "Home": 1.83,
+        "Draw": 3.5,
+        "Away": 3.9
+    },
+    {
+        "Home Team": "Junior",
+        "Away Team": "U. de Deportes",
+        "Home": 1.68,
+        "Draw": 3.9,
+        "Away": 4.75
+    },
+    {
+        "Home Team": "Club America",
+        "Away Team": "New England Revolution",
+        "Home": 1.31,
+        "Draw": 5.05,
+        "Away": 8.0
+    },
+    {
+        "Home Team": "Atletico La Paz",
+        "Away Team": "Venados",
+        "Home": 2.25,
+        "Draw": 3.5,
+        "Away": 2.85
+    },
+    {
+        "Home Team": "Anyang",
+        "Away Team": "Bucheon FC 1995",
+        "Home": 1.98,
+        "Draw": 3.4,
+        "Away": 3.45
+    },
+    {
+        "Home Team": "Yokohama F. Marinos",
+        "Away Team": "Gamba Osaka",
+        "Home": 1.85,
+        "Draw": 3.75,
+        "Away": 3.85
+    },
+    {
+        "Home Team": "Qingdao West Coast",
+        "Away Team": "Tianjin Jinmen Tiger",
+        "Home": 2.75,
+        "Draw": 3.5,
+        "Away": 2.4
+    },
+    {
+        "Home Team": "Cangzhou",
+        "Away Team": "Changchun Yatai",
+        "Home": 2.15,
+        "Draw": 3.65,
+        "Away": 3.1
+    },
+    {
+        "Home Team": "Chengdu Rongcheng",
+        "Away Team": "Zhejiang Professional",
+        "Home": 1.83,
+        "Draw": 3.55,
+        "Away": 4.25
+    },
+    {
+        "Home Team": "Meizhou Hakka",
+        "Away Team": "Qingdao Hainiu",
+        "Home": 2.18,
+        "Draw": 3.45,
+        "Away": 3.2
+    },
+    {
+        "Home Team": "Celje",
+        "Away Team": "Bravo",
+        "Home": 1.52,
+        "Draw": 4.05,
+        "Away": 6.4
+    },
+    {
+        "Home Team": "Punjab",
+        "Away Team": "East Bengal",
+        "Home": 2.85,
+        "Draw": 3.45,
+        "Away": 2.25
+    },
+    {
+        "Home Team": "Domzale",
+        "Away Team": "Rogaska",
+        "Home": 2.02,
+        "Draw": 3.55,
+        "Away": 3.5
+    },
+    {
+        "Home Team": "Paphos",
+        "Away Team": "Apollon",
+        "Home": 2.0,
+        "Draw": 3.3,
+        "Away": 3.6
+    },
+    {
+        "Home Team": "Ferencvaros",
+        "Away Team": "DVTK",
+        "Home": 1.31,
+        "Draw": 5.15,
+        "Away": 9.2
+    },
+    {
+        "Home Team": "Olimpija Ljubljana",
+        "Away Team": "Radomlje",
+        "Home": 1.42,
+        "Draw": 4.65,
+        "Away": 7.1
+    },
+    {
+        "Home Team": "Aris",
+        "Away Team": "Omonia",
+        "Home": 1.85,
+        "Draw": 3.4,
+        "Away": 4.05
+    },
+    {
+        "Home Team": "Saarbrucken",
+        "Away Team": "Unterhaching",
+        "Home": 1.57,
+        "Draw": 4.25,
+        "Away": 5.3
+    },
+    {
+        "Home Team": "Birmingham",
+        "Away Team": "Cardiff",
+        "Home": 1.93,
+        "Draw": 3.6,
+        "Away": 4.1
+    },
+    {
+        "Home Team": "Bristol City",
+        "Away Team": "Blackburn",
+        "Home": 2.55,
+        "Draw": 3.25,
+        "Away": 2.9
+    },
+    {
+        "Home Team": "Hull",
+        "Away Team": "Middlesbrough",
+        "Home": 2.43,
+        "Draw": 3.5,
+        "Away": 2.9
+    },
+    {
+        "Home Team": "Ipswich",
+        "Away Team": "Watford",
+        "Home": 1.5,
+        "Draw": 4.8,
+        "Away": 6.05
+    },
+    {
+        "Home Team": "Peterborough",
+        "Away Team": "Port Vale",
+        "Home": 1.45,
+        "Draw": 4.7,
+        "Away": 6.3
+    },
+    {
+        "Home Team": "Wycombe",
+        "Away Team": "Derby",
+        "Home": 4.4,
+        "Draw": 3.4,
+        "Away": 1.85
+    },
+    {
+        "Home Team": "FC Halifax",
+        "Away Team": "Oldham",
+        "Home": 2.2,
+        "Draw": 3.25,
+        "Away": 3.1
+    },
+    {
+        "Home Team": "Havant & W",
+        "Away Team": "Welling United FC",
+        "Home": 2.6,
+        "Draw": 3.4,
+        "Away": 2.45
+    },
+    {
+        "Home Team": "Atl. Madrid",
+        "Away Team": "Dortmund",
+        "Home": 1.8,
+        "Draw": 3.55,
+        "Away": 4.75
+    },
+    {
+        "Home Team": "Paris SG",
+        "Away Team": "Barcelona",
+        "Home": 2.03,
+        "Draw": 3.8,
+        "Away": 3.5
+    },
+    {
+        "Home Team": "Swansea",
+        "Away Team": "Stoke",
+        "Home": 2.48,
+        "Draw": 3.4,
+        "Away": 2.75
+    },
+    {
+        "Home Team": "West Brom",
+        "Away Team": "Rotherham",
+        "Home": 1.28,
+        "Draw": 5.8,
+        "Away": 11.7
+    },
+    {
+        "Home Team": "Dundee",
+        "Away Team": "Rangers",
+        "Home": 8.6,
+        "Draw": 5.65,
+        "Away": 1.3
+    },
+    {
+        "Home Team": "Defensa y Justicia",
+        "Away Team": "Always Ready",
+        "Home": 1.23,
+        "Draw": 5.8,
+        "Away": 13.3
+    },
+    {
+        "Home Team": "Atletico-MG",
+        "Away Team": "Rosario Central",
+        "Home": 1.53,
+        "Draw": 4.3,
+        "Away": 5.7
+    },
+    {
+        "Home Team": "Cerro Porteno",
+        "Away Team": "Alianza Lima",
+        "Home": 1.75,
+        "Draw": 3.7,
+        "Away": 4.55
+    },
+    {
+        "Home Team": "Independiente del Valle",
+        "Away Team": "San Lorenzo",
+        "Home": 1.75,
+        "Draw": 3.7,
+        "Away": 4.6
+    },
+    {
+        "Home Team": "Internacional",
+        "Away Team": "Tomayapo",
+        "Home": 1.05,
+        "Draw": 11.0,
+        "Away": 44.0
+    },
+    {
+        "Home Team": "Union La Calera",
+        "Away Team": "U. Catolica del Ecuador",
+        "Home": 2.23,
+        "Draw": 3.4,
+        "Away": 3.1
+    },
+    {
+        "Home Team": "Penarol",
+        "Away Team": "Caracas",
+        "Home": 1.28,
+        "Draw": 5.1,
+        "Away": 11.9
+    },
+    {
+        "Home Team": "Pachuca",
+        "Away Team": "Herediano",
+        "Home": 1.19,
+        "Draw": 6.0,
+        "Away": 11.8
+    },
+    {
+        "Home Team": "Racing Club",
+        "Away Team": "Bragantino",
+        "Home": 2.02,
+        "Draw": 3.35,
+        "Away": 3.7
+    },
+    {
+        "Home Team": "Flamengo RJ",
+        "Away Team": "Palestino",
+        "Home": 1.08,
+        "Draw": 9.6,
+        "Away": 34.0
+    },
+    {
+        "Home Team": "Sao Paulo",
+        "Away Team": "Cobresal",
+        "Home": 1.16,
+        "Draw": 7.0,
+        "Away": 17.7
+    },
+    {
+        "Home Team": "Ind. Medellin",
+        "Away Team": "Cesar Vallejo",
+        "Home": 1.55,
+        "Draw": 4.0,
+        "Away": 6.2
+    },
+    {
+        "Home Team": "Barcelona SC",
+        "Away Team": "Talleres Cordoba",
+        "Home": 2.4,
+        "Draw": 3.25,
+        "Away": 2.95
+    },
+    {
+        "Home Team": "Monterrey",
+        "Away Team": "Inter Miami",
+        "Home": 1.85,
+        "Draw": 3.55,
+        "Away": 3.75
+    },
+    {
+        "Home Team": "Leones Negros",
+        "Away Team": "Tepatitlan de Morelos",
+        "Home": 1.29,
+        "Draw": 5.0,
+        "Away": 9.2
+    },
+    {
+        "Home Team": "Al Masry",
+        "Away Team": "Future FC",
+        "Home": 2.15,
+        "Draw": 3.15,
+        "Away": 3.55
+    },
+    {
+        "Home Team": "Bengaluru FC",
+        "Away Team": "Mohun Bagan",
+        "Home": 4.35,
+        "Draw": 3.5,
+        "Away": 1.75
+    },
+    {
+        "Home Team": "Koper",
+        "Away Team": "Aluminij",
+        "Home": 1.7,
+        "Draw": 3.85,
+        "Away": 4.6
+    },
+    {
+        "Home Team": "HJK",
+        "Away Team": "Lahti",
+        "Home": 1.47,
+        "Draw": 4.6,
+        "Away": 6.1
+    },
+    {
+        "Home Team": "CSKA 1948 Sofia",
+        "Away Team": "Ludogorets",
+        "Home": 6.5,
+        "Draw": 4.15,
+        "Away": 1.45
+    },
+    {
+        "Home Team": "Fredericia",
+        "Away Team": "Silkeborg",
+        "Home": 4.0,
+        "Draw": 4.05,
+        "Away": 1.77
+    },
+    {
+        "Home Team": "Olympiacos",
+        "Away Team": "Fenerbahce",
+        "Home": 2.4,
+        "Draw": 3.5,
+        "Away": 2.95
+    },
+    {
+        "Home Team": "Plzen",
+        "Away Team": "Fiorentina",
+        "Home": 3.85,
+        "Draw": 3.35,
+        "Away": 2.07
+    },
+    {
+        "Home Team": "Zamalek",
+        "Away Team": "Al Ittihad Al Sakandary",
+        "Home": 1.68,
+        "Draw": 3.75,
+        "Away": 5.0
+    },
+    {
+        "Home Team": "Aarhus",
+        "Away Team": "Nordsjaelland",
+        "Home": 2.95,
+        "Draw": 3.65,
+        "Away": 2.2
+    },
+    {
+        "Home Team": "Wealdstone",
+        "Away Team": "Dorking",
+        "Home": 2.13,
+        "Draw": 3.45,
+        "Away": 3.05
+    },
+    {
+        "Home Team": "Bayer Leverkusen",
+        "Away Team": "West Ham",
+        "Home": 1.47,
+        "Draw": 4.75,
+        "Away": 6.65
+    },
+    {
+        "Home Team": "Benfica",
+        "Away Team": "Marseille",
+        "Home": 1.9,
+        "Draw": 3.75,
+        "Away": 4.05
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Atalanta",
+        "Home": 1.37,
+        "Draw": 5.6,
+        "Away": 7.7
+    },
+    {
+        "Home Team": "Milan",
+        "Away Team": "Roma",
+        "Home": 1.83,
+        "Draw": 3.65,
+        "Away": 4.55
+    },
+    {
+        "Home Team": "Aston Villa",
+        "Away Team": "Lille",
+        "Home": 1.67,
+        "Draw": 4.05,
+        "Away": 5.15
+    },
+    {
+        "Home Team": "Club Brugge",
+        "Away Team": "PAOK",
+        "Home": 1.75,
+        "Draw": 3.85,
+        "Away": 4.8
+    },
+    {
+        "Home Team": "Lanus",
+        "Away Team": "Deportivo Garcilaso",
+        "Home": 1.28,
+        "Draw": 5.35,
+        "Away": 10.8
+    },
+    {
+        "Home Team": "Metropolitanos",
+        "Away Team": "Cuiaba",
+        "Home": 3.35,
+        "Draw": 3.35,
+        "Away": 2.15
+    },
+    {
+        "Home Team": "Bolivar",
+        "Away Team": "Millonarios",
+        "Home": 1.55,
+        "Draw": 4.35,
+        "Away": 5.3
+    },
+    {
+        "Home Team": "LDU Quito",
+        "Away Team": "Botafogo RJ",
+        "Home": 1.72,
+        "Draw": 3.75,
+        "Away": 4.7
+    },
+    {
+        "Home Team": "Coquimbo",
+        "Away Team": "Sportivo Luqueno",
+        "Home": 2.03,
+        "Draw": 3.45,
+        "Away": 3.55
+    },
+    {
+        "Home Team": "Cruzeiro",
+        "Away Team": "Alianza",
+        "Home": 1.31,
+        "Draw": 4.9,
+        "Away": 10.7
+    },
+    {
+        "Home Team": "Palmeiras",
+        "Away Team": "Liverpool M.",
+        "Home": 1.25,
+        "Draw": 5.45,
+        "Away": 13.0
+    },
+    {
+        "Home Team": "River Plate",
+        "Away Team": "Nacional De Football",
+        "Home": 1.4,
+        "Draw": 4.55,
+        "Away": 7.8
+    },
+    {
+        "Home Team": "Delfin",
+        "Away Team": "Belgrano",
+        "Home": 2.8,
+        "Draw": 2.95,
+        "Away": 2.7
+    },
+    {
+        "Home Team": "Wellington Phoenix",
+        "Away Team": "Melbourne Victory",
+        "Home": 3.35,
+        "Draw": 3.6,
+        "Away": 2.07
+    },
+    {
+        "Home Team": "Adelaide United FC",
+        "Away Team": "Macarthur FC",
+        "Home": 1.78,
+        "Draw": 4.25,
+        "Away": 3.75
+    },
+    {
+        "Home Team": "Kashiwa Reysol",
+        "Away Team": "Urawa Red Diamonds",
+        "Home": 2.8,
+        "Draw": 3.05,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Hyderabad",
+        "Away Team": "Kerala Blasters",
+        "Home": 5.25,
+        "Draw": 3.75,
+        "Away": 1.6
+    },
+    {
+        "Home Team": "UTA Arad",
+        "Away Team": "Hermannstadt",
+        "Home": 2.55,
+        "Draw": 3.15,
+        "Away": 2.85
+    },
+    {
+        "Home Team": "Botev Plovdiv",
+        "Away Team": "Botev Vratsa",
+        "Home": 1.35,
+        "Draw": 5.0,
+        "Away": 8.3
+    },
+    {
+        "Home Team": "Zilina",
+        "Away Team": "Ruzomberok",
+        "Home": 1.85,
+        "Draw": 3.75,
+        "Away": 4.0
+    },
+    {
+        "Home Team": "Niort",
+        "Away Team": "GOAL FC",
+        "Home": 1.88,
+        "Draw": 3.4,
+        "Away": 3.85
+    },
+    {
+        "Home Team": "Warta Poznan",
+        "Away Team": "Korona Kielce",
+        "Home": 2.6,
+        "Draw": 2.95,
+        "Away": 2.95
+    },
+    {
+        "Home Team": "Zaglebie Sosnowiec",
+        "Away Team": "Leczna",
+        "Home": 3.15,
+        "Draw": 3.15,
+        "Away": 2.32
+    },
+    {
+        "Home Team": "Dornbirn",
+        "Away Team": "First Vienna",
+        "Home": 3.6,
+        "Draw": 3.65,
+        "Away": 1.95
+    },
+    {
+        "Home Team": "Kapfenberg",
+        "Away Team": "Stripfing",
+        "Home": 2.1,
+        "Draw": 3.7,
+        "Away": 3.15
+    },
+    {
+        "Home Team": "Liefering",
+        "Away Team": "Grazer AK",
+        "Home": 2.65,
+        "Draw": 3.7,
+        "Away": 2.42
+    },
+    {
+        "Home Team": "St. Polten",
+        "Away Team": "Admira",
+        "Home": 2.12,
+        "Draw": 3.4,
+        "Away": 3.35
+    },
+    {
+        "Home Team": "Hobro",
+        "Away Team": "Aalborg",
+        "Home": 4.6,
+        "Draw": 3.65,
+        "Away": 1.75
+    },
+    {
+        "Home Team": "Koge",
+        "Away Team": "B.93",
+        "Home": 2.35,
+        "Draw": 3.75,
+        "Away": 2.7
+    },
+    {
+        "Home Team": "Naestved",
+        "Away Team": "Horsens",
+        "Home": 2.25,
+        "Draw": 3.65,
+        "Away": 2.9
+    },
+    {
+        "Home Team": "Greuther Furth",
+        "Away Team": "Kaiserslautern",
+        "Home": 2.38,
+        "Draw": 3.7,
+        "Away": 2.7
+    },
+    {
+        "Home Team": "Hertha Berlin",
+        "Away Team": "Hansa Rostock",
+        "Home": 1.75,
+        "Draw": 4.2,
+        "Away": 4.3
+    },
+    {
+        "Home Team": "Trabzonspor",
+        "Away Team": "Sivasspor",
+        "Home": 1.57,
+        "Draw": 4.1,
+        "Away": 5.55
+    },
+    {
+        "Home Team": "Odense",
+        "Away Team": "Viborg",
+        "Home": 2.25,
+        "Draw": 3.45,
+        "Away": 3.05
+    },
+    {
+        "Home Team": "Duisburg",
+        "Away Team": "Mannheim",
+        "Home": 2.8,
+        "Draw": 3.4,
+        "Away": 2.45
+    },
+    {
+        "Home Team": "CSKA Sofia",
+        "Away Team": "Pirin Blagoevgrad",
+        "Home": 1.16,
+        "Draw": 5.9,
+        "Away": 18.6
+    },
+    {
+        "Home Team": "LASK",
+        "Away Team": "Salzburg",
+        "Home": 4.25,
+        "Draw": 3.65,
+        "Away": 1.8
+    },
+    {
+        "Home Team": "Avranches",
+        "Away Team": "Epinal",
+        "Home": 2.28,
+        "Draw": 3.3,
+        "Away": 2.9
+    },
+    {
+        "Home Team": "Chateauroux",
+        "Away Team": "Le Mans",
+        "Home": 2.48,
+        "Draw": 3.2,
+        "Away": 2.7
+    },
+    {
+        "Home Team": "Dijon",
+        "Away Team": "Orleans",
+        "Home": 2.48,
+        "Draw": 3.25,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Marignane",
+        "Away Team": "Red Star",
+        "Home": 4.95,
+        "Draw": 3.55,
+        "Away": 1.65
+    },
+    {
+        "Home Team": "Nimes",
+        "Away Team": "Versailles",
+        "Home": 2.3,
+        "Draw": 3.2,
+        "Away": 2.95
+    },
+    {
+        "Home Team": "Villefranche",
+        "Away Team": "Rouen",
+        "Home": 2.65,
+        "Draw": 3.1,
+        "Away": 2.6
+    },
+    {
+        "Home Team": "Univ. Craiova",
+        "Away Team": "Farul Constanta",
+        "Home": 1.87,
+        "Draw": 3.55,
+        "Away": 4.05
+    },
+    {
+        "Home Team": "Xamax",
+        "Away Team": "Aarau",
+        "Home": 2.08,
+        "Draw": 3.65,
+        "Away": 3.25
+    },
+    {
+        "Home Team": "Excelsior",
+        "Away Team": "Volendam",
+        "Home": 1.73,
+        "Draw": 4.25,
+        "Away": 4.4
+    },
+    {
+        "Home Team": "Club Brugge U23",
+        "Away Team": "RFC Liege",
+        "Home": 5.05,
+        "Draw": 3.95,
+        "Away": 1.63
+    },
+    {
+        "Home Team": "Genk U23",
+        "Away Team": "Francs Borains",
+        "Home": 2.1,
+        "Draw": 3.75,
+        "Away": 3.15
+    },
+    {
+        "Home Team": "Breda",
+        "Away Team": "Dordrecht",
+        "Home": 2.05,
+        "Draw": 4.05,
+        "Away": 3.05
+    },
+    {
+        "Home Team": "Den Haag",
+        "Away Team": "Helmond",
+        "Home": 1.55,
+        "Draw": 4.45,
+        "Away": 5.15
+    },
+    {
+        "Home Team": "Eindhoven",
+        "Away Team": "Jong PSV",
+        "Home": 2.2,
+        "Draw": 3.75,
+        "Away": 2.95
+    },
+    {
+        "Home Team": "Graafschap",
+        "Away Team": "Telstar",
+        "Home": 1.65,
+        "Draw": 4.25,
+        "Away": 4.55
+    },
+    {
+        "Home Team": "Oss",
+        "Away Team": "Roda",
+        "Home": 4.25,
+        "Draw": 3.75,
+        "Away": 1.78
+    },
+    {
+        "Home Team": "SV Schaffhausen",
+        "Away Team": "Vaduz",
+        "Home": 2.4,
+        "Draw": 3.55,
+        "Away": 2.7
+    },
+    {
+        "Home Team": "Augsburg",
+        "Away Team": "Union Berlin",
+        "Home": 2.17,
+        "Draw": 3.55,
+        "Away": 3.35
+    },
+    {
+        "Home Team": "Floridsdorfer AC",
+        "Away Team": "Leoben",
+        "Home": 2.6,
+        "Draw": 3.25,
+        "Away": 2.7
+    },
+    {
+        "Home Team": "Modena",
+        "Away Team": "Catanzaro",
+        "Home": 2.1,
+        "Draw": 3.25,
+        "Away": 3.6
+    },
+    {
+        "Home Team": "Pogon Szczecin",
+        "Away Team": "Ruch Chorzow",
+        "Home": 1.57,
+        "Draw": 4.2,
+        "Away": 5.25
+    },
+    {
+        "Home Team": "Motor Lublin",
+        "Away Team": "Arka Gdynia",
+        "Home": 3.0,
+        "Draw": 3.6,
+        "Away": 2.22
+    },
+    {
+        "Home Team": "Leganes",
+        "Away Team": "Espanyol",
+        "Home": 2.55,
+        "Draw": 3.0,
+        "Away": 2.95
+    },
+    {
+        "Home Team": "Lazio",
+        "Away Team": "Salernitana",
+        "Home": 1.34,
+        "Draw": 5.35,
+        "Away": 9.4
+    },
+    {
+        "Home Team": "St. Truiden",
+        "Away Team": "Standard Liege",
+        "Home": 2.17,
+        "Draw": 3.6,
+        "Away": 3.35
+    },
+    {
+        "Home Team": "Drogheda",
+        "Away Team": "Derry City",
+        "Home": 4.75,
+        "Draw": 3.65,
+        "Away": 1.73
+    },
+    {
+        "Home Team": "Dundalk",
+        "Away Team": "St. Patricks",
+        "Home": 3.25,
+        "Draw": 3.25,
+        "Away": 2.23
+    },
+    {
+        "Home Team": "Shelbourne",
+        "Away Team": "Bohemians",
+        "Home": 2.08,
+        "Draw": 3.05,
+        "Away": 3.95
+    },
+    {
+        "Home Team": "Waterford",
+        "Away Team": "Galway",
+        "Home": 2.5,
+        "Draw": 3.4,
+        "Away": 2.7
+    },
+    {
+        "Home Team": "Crusaders",
+        "Away Team": "Linfield",
+        "Home": 3.25,
+        "Draw": 3.5,
+        "Away": 2.15
+    },
+    {
+        "Home Team": "Betis",
+        "Away Team": "Celta Vigo",
+        "Home": 2.2,
+        "Draw": 3.4,
+        "Away": 3.45
+    },
+    {
+        "Home Team": "Metz",
+        "Away Team": "Lens",
+        "Home": 4.2,
+        "Draw": 3.75,
+        "Away": 1.87
+    },
+    {
+        "Home Team": "Plymouth",
+        "Away Team": "Leicester",
+        "Home": 5.65,
+        "Draw": 4.8,
+        "Away": 1.52
+    },
+    {
+        "Home Team": "Shamrock Rovers",
+        "Away Team": "Sligo",
+        "Home": 1.45,
+        "Draw": 4.4,
+        "Away": 6.95
+    },
+    {
+        "Home Team": "Gil Vicente",
+        "Away Team": "Sporting CP",
+        "Home": 9.2,
+        "Draw": 5.65,
+        "Away": 1.29
+    },
+    {
+        "Home Team": "Athlone",
+        "Away Team": "Finn Harps",
+        "Home": 3.2,
+        "Draw": 3.15,
+        "Away": 2.2
+    },
+    {
+        "Home Team": "Cobh Ramblers",
+        "Away Team": "Wexford",
+        "Home": 3.0,
+        "Draw": 3.35,
+        "Away": 2.2
+    },
+    {
+        "Home Team": "Treaty United",
+        "Away Team": "Kerry",
+        "Home": 1.83,
+        "Draw": 3.55,
+        "Away": 3.85
+    },
+    {
+        "Home Team": "Deportes Tolima",
+        "Away Team": "Aguilas",
+        "Home": 1.78,
+        "Draw": 3.5,
+        "Away": 4.7
+    },
+    {
+        "Home Team": "Dep. Cuenca",
+        "Away Team": "Aucas",
+        "Home": 2.75,
+        "Draw": 3.35,
+        "Away": 2.45
+    },
+    {
+        "Home Team": "Queretaro",
+        "Away Team": "Mazatlan FC",
+        "Home": 2.17,
+        "Draw": 3.65,
+        "Away": 3.0
+    },
+    {
+        "Home Team": "Dep. Cali",
+        "Away Team": "America de Cali",
+        "Home": 3.0,
+        "Draw": 3.2,
+        "Away": 2.4
+    },
+    {
+        "Home Team": "Necaxa",
+        "Away Team": "Santos Laguna",
+        "Home": 2.35,
+        "Draw": 3.3,
+        "Away": 2.95
+    },
+    {
+        "Home Team": "Puebla",
+        "Away Team": "Cruz Azul",
+        "Home": 4.1,
+        "Draw": 4.15,
+        "Away": 1.73
+    },
+    {
+        "Home Team": "Albirex Niigata",
+        "Away Team": "Hokkaido Consadole Sapporo",
+        "Home": 2.4,
+        "Draw": 3.25,
+        "Away": 2.95
+    },
+    {
+        "Home Team": "Chiba",
+        "Away Team": "Oita Trinita",
+        "Home": 1.9,
+        "Draw": 3.4,
+        "Away": 4.15
+    },
+    {
+        "Home Team": "Mito",
+        "Away Team": "Tochigi SC",
+        "Home": 2.1,
+        "Draw": 3.2,
+        "Away": 3.7
+    },
+    {
+        "Home Team": "V-Varen Nagasaki",
+        "Away Team": "Tokushima",
+        "Home": 1.8,
+        "Draw": 3.65,
+        "Away": 4.35
+    },
+    {
+        "Home Team": "Vegalta Sendai",
+        "Away Team": "Montedio Yamagata",
+        "Home": 2.6,
+        "Draw": 3.2,
+        "Away": 2.75
+    },
+    {
+        "Home Team": "Jeonbuk",
+        "Away Team": "Gwangju FC",
+        "Home": 2.13,
+        "Draw": 3.3,
+        "Away": 3.45
+    },
+    {
+        "Home Team": "Seoul",
+        "Away Team": "Pohang",
+        "Home": 2.55,
+        "Draw": 3.3,
+        "Away": 2.75
+    },
+    {
+        "Home Team": "Western United FC",
+        "Away Team": "Central Coast Mariners",
+        "Home": 3.45,
+        "Draw": 3.8,
+        "Away": 1.97
+    },
+    {
+        "Home Team": "Cerezo Osaka",
+        "Away Team": "Kawasaki Frontale",
+        "Home": 2.7,
+        "Draw": 3.2,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Iwaki",
+        "Away Team": "Shimizu S-Pulse",
+        "Home": 3.45,
+        "Draw": 3.5,
+        "Away": 2.05
+    },
+    {
+        "Home Team": "Brisbane Roar FC",
+        "Away Team": "Newcastle Jets",
+        "Home": 1.82,
+        "Draw": 4.1,
+        "Away": 3.7
+    },
+    {
+        "Home Team": "Sydney FC",
+        "Away Team": "Western Sydney Wanderers",
+        "Home": 1.65,
+        "Draw": 4.35,
+        "Away": 4.4
+    },
+    {
+        "Home Team": "Kasimpasa",
+        "Away Team": "Konyaspor",
+        "Home": 2.05,
+        "Draw": 3.45,
+        "Away": 3.5
+    },
+    {
+        "Home Team": "Kolding IF",
+        "Away Team": "Vendsyssel",
+        "Home": 2.18,
+        "Draw": 3.5,
+        "Away": 3.1
+    },
+    {
+        "Home Team": "Holstein Kiel",
+        "Away Team": "VfL Osnabruck",
+        "Home": 1.52,
+        "Draw": 4.95,
+        "Away": 5.5
+    },
+    {
+        "Home Team": "Paderborn",
+        "Away Team": "Karlsruher SC",
+        "Home": 2.48,
+        "Draw": 3.9,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Wehen",
+        "Away Team": "Dusseldorf",
+        "Home": 3.55,
+        "Draw": 3.8,
+        "Away": 2.0
+    },
+    {
+        "Home Team": "Sochi",
+        "Away Team": "Spartak Moscow",
+        "Home": 2.55,
+        "Draw": 3.5,
+        "Away": 2.6
+    },
+    {
+        "Home Team": "Newcastle",
+        "Away Team": "Tottenham",
+        "Home": 2.65,
+        "Draw": 4.1,
+        "Away": 2.38
+    },
+    {
+        "Home Team": "Leeds",
+        "Away Team": "Blackburn",
+        "Home": 1.35,
+        "Draw": 5.6,
+        "Away": 8.4
+    },
+    {
+        "Home Team": "Atl. Madrid",
+        "Away Team": "Girona",
+        "Home": 2.1,
+        "Draw": 3.6,
+        "Away": 3.5
+    },
+    {
+        "Home Team": "Panserraikos",
+        "Away Team": "OFI Crete",
+        "Home": 2.2,
+        "Draw": 3.3,
+        "Away": 3.25
+    },
+    {
+        "Home Team": "Cittadella",
+        "Away Team": "Ascoli",
+        "Home": 2.07,
+        "Draw": 3.05,
+        "Away": 4.0
+    },
+    {
+        "Home Team": "Como",
+        "Away Team": "Bari",
+        "Home": 1.77,
+        "Draw": 3.55,
+        "Away": 4.65
+    },
+    {
+        "Home Team": "Cremonese",
+        "Away Team": "Ternana",
+        "Home": 1.55,
+        "Draw": 4.25,
+        "Away": 5.65
+    },
+    {
+        "Home Team": "Pisa",
+        "Away Team": "FeralpiSalo",
+        "Home": 1.8,
+        "Draw": 3.4,
+        "Away": 4.8
+    },
+    {
+        "Home Team": "Sampdoria",
+        "Away Team": "Sudtirol",
+        "Home": 2.0,
+        "Draw": 3.2,
+        "Away": 4.0
+    },
+    {
+        "Home Team": "Dortmund II",
+        "Away Team": "Ingolstadt",
+        "Home": 3.65,
+        "Draw": 3.95,
+        "Away": 1.87
+    },
+    {
+        "Home Team": "Ulm",
+        "Away Team": "Preussen Munster",
+        "Home": 2.15,
+        "Draw": 3.55,
+        "Away": 3.1
+    },
+    {
+        "Home Team": "Verl",
+        "Away Team": "Aue",
+        "Home": 2.15,
+        "Draw": 3.7,
+        "Away": 3.05
+    },
+    {
+        "Home Team": "Viktoria Koln",
+        "Away Team": "Hallescher",
+        "Home": 2.45,
+        "Draw": 3.6,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Kisvarda",
+        "Away Team": "Ujpest",
+        "Home": 2.65,
+        "Draw": 3.25,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Lecce",
+        "Away Team": "Empoli",
+        "Home": 2.15,
+        "Draw": 3.15,
+        "Away": 3.85
+    },
+    {
+        "Home Team": "Ankaragucu",
+        "Away Team": "Gaziantep",
+        "Home": 1.97,
+        "Draw": 3.35,
+        "Away": 3.9
+    },
+    {
+        "Home Team": "AC Ajaccio",
+        "Away Team": "St Etienne",
+        "Home": 4.2,
+        "Draw": 2.9,
+        "Away": 2.1
+    },
+    {
+        "Home Team": "Stal Mielec",
+        "Away Team": "Widzew Lodz",
+        "Home": 2.8,
+        "Draw": 3.3,
+        "Away": 2.45
+    },
+    {
+        "Home Team": "GKS Katowice",
+        "Away Team": "Odra Opole",
+        "Home": 1.75,
+        "Draw": 3.65,
+        "Away": 4.7
+    },
+    {
+        "Home Team": "Leiria",
+        "Away Team": "Vilaverdense",
+        "Home": 1.62,
+        "Draw": 3.95,
+        "Away": 5.15
+    },
+    {
+        "Home Team": "Bohemians",
+        "Away Team": "Sparta Prague",
+        "Home": 5.25,
+        "Draw": 4.15,
+        "Away": 1.6
+    },
+    {
+        "Home Team": "Ceske Budejovice",
+        "Away Team": "Liberec",
+        "Home": 3.05,
+        "Draw": 3.5,
+        "Away": 2.2
+    },
+    {
+        "Home Team": "Mlada Boleslav",
+        "Away Team": "Teplice",
+        "Home": 1.78,
+        "Draw": 3.6,
+        "Away": 4.45
+    },
+    {
+        "Home Team": "Mjallby",
+        "Away Team": "AIK",
+        "Home": 2.6,
+        "Draw": 3.4,
+        "Away": 2.6
+    },
+    {
+        "Home Team": "B. Monchengladbach",
+        "Away Team": "Dortmund",
+        "Home": 3.3,
+        "Draw": 4.1,
+        "Away": 2.03
+    },
+    {
+        "Home Team": "Bayern Munich",
+        "Away Team": "FC Koln",
+        "Home": 1.21,
+        "Draw": 7.6,
+        "Away": 12.3
+    },
+    {
+        "Home Team": "Bochum",
+        "Away Team": "Heidenheim",
+        "Home": 2.13,
+        "Draw": 3.8,
+        "Away": 3.25
+    },
+    {
+        "Home Team": "Mainz",
+        "Away Team": "Hoffenheim",
+        "Home": 2.0,
+        "Draw": 4.0,
+        "Away": 3.4
+    },
+    {
+        "Home Team": "RB Leipzig",
+        "Away Team": "Wolfsburg",
+        "Home": 1.4,
+        "Draw": 5.4,
+        "Away": 7.2
+    },
+    {
+        "Home Team": "Akhmat Grozny",
+        "Away Team": "Baltika",
+        "Home": 2.0,
+        "Draw": 3.35,
+        "Away": 3.8
+    },
+    {
+        "Home Team": "Slovan Bratislava",
+        "Away Team": "Dun. Streda",
+        "Home": 1.55,
+        "Draw": 4.25,
+        "Away": 5.55
+    },
+    {
+        "Home Team": "Brentford",
+        "Away Team": "Sheffield Utd",
+        "Home": 1.47,
+        "Draw": 4.75,
+        "Away": 6.75
+    },
+    {
+        "Home Team": "Burnley",
+        "Away Team": "Brighton",
+        "Home": 3.7,
+        "Draw": 3.85,
+        "Away": 1.95
+    },
+    {
+        "Home Team": "Manchester City",
+        "Away Team": "Luton",
+        "Home": 1.09,
+        "Draw": 11.4,
+        "Away": 26.0
+    },
+    {
+        "Home Team": "Nottingham",
+        "Away Team": "Wolves",
+        "Home": 2.25,
+        "Draw": 3.6,
+        "Away": 3.1
+    },
+    {
+        "Home Team": "RWDM",
+        "Away Team": "Eupen",
+        "Home": 2.4,
+        "Draw": 3.4,
+        "Away": 3.05
+    },
+    {
+        "Home Team": "Lierse K.",
+        "Away Team": "Anderlecht U23",
+        "Home": 2.35,
+        "Draw": 3.75,
+        "Away": 2.7
+    },
+    {
+        "Home Team": "Birmingham",
+        "Away Team": "Coventry",
+        "Home": 3.15,
+        "Draw": 3.5,
+        "Away": 2.3
+    },
+    {
+        "Home Team": "Bristol City",
+        "Away Team": "Huddersfield",
+        "Home": 2.32,
+        "Draw": 3.15,
+        "Away": 3.4
+    },
+    {
+        "Home Team": "Hull",
+        "Away Team": "QPR",
+        "Home": 2.1,
+        "Draw": 3.45,
+        "Away": 3.6
+    },
+    {
+        "Home Team": "Ipswich",
+        "Away Team": "Middlesbrough",
+        "Home": 1.87,
+        "Draw": 3.95,
+        "Away": 3.95
+    },
+    {
+        "Home Team": "Millwall",
+        "Away Team": "Cardiff",
+        "Home": 1.9,
+        "Draw": 3.45,
+        "Away": 4.5
+    },
+    {
+        "Home Team": "Preston",
+        "Away Team": "Norwich",
+        "Home": 3.1,
+        "Draw": 3.45,
+        "Away": 2.35
+    },
+    {
+        "Home Team": "Sheffield Wed",
+        "Away Team": "Stoke",
+        "Home": 2.75,
+        "Draw": 3.1,
+        "Away": 2.8
+    },
+    {
+        "Home Team": "Southampton",
+        "Away Team": "Watford",
+        "Home": 1.43,
+        "Draw": 4.9,
+        "Away": 7.1
+    },
+    {
+        "Home Team": "Swansea",
+        "Away Team": "Rotherham",
+        "Home": 1.47,
+        "Draw": 4.25,
+        "Away": 6.9
+    },
+    {
+        "Home Team": "West Brom",
+        "Away Team": "Sunderland",
+        "Home": 1.83,
+        "Draw": 3.75,
+        "Away": 4.4
+    },
+    {
+        "Home Team": "Voluntari",
+        "Away Team": "Otelul",
+        "Home": 2.65,
+        "Draw": 3.0,
+        "Away": 2.85
+    },
+    {
+        "Home Team": "Krasnodar",
+        "Away Team": "Zenit",
+        "Home": 3.05,
+        "Draw": 3.35,
+        "Away": 2.3
+    },
+    {
+        "Home Team": "Coleraine",
+        "Away Team": "Glentoran",
+        "Home": 3.35,
+        "Draw": 3.8,
+        "Away": 2.0
+    },
+    {
+        "Home Team": "Carrick Rangers",
+        "Away Team": "Ballymena",
+        "Home": 1.77,
+        "Draw": 3.9,
+        "Away": 4.15
+    },
+    {
+        "Home Team": "Loughgall",
+        "Away Team": "Glenavon",
+        "Home": 2.4,
+        "Draw": 3.65,
+        "Away": 2.7
+    },
+    {
+        "Home Team": "Newry City",
+        "Away Team": "Dungannon",
+        "Home": 4.55,
+        "Draw": 4.3,
+        "Away": 1.65
+    },
+    {
+        "Home Team": "Aberdeen",
+        "Away Team": "Dundee",
+        "Home": 2.1,
+        "Draw": 3.5,
+        "Away": 3.35
+    },
+    {
+        "Home Team": "Celtic",
+        "Away Team": "St. Mirren",
+        "Home": 1.2,
+        "Draw": 6.95,
+        "Away": 12.0
+    },
+    {
+        "Home Team": "Hearts FC",
+        "Away Team": "Livingston",
+        "Home": 1.35,
+        "Draw": 5.0,
+        "Away": 8.2
+    },
+    {
+        "Home Team": "Motherwell",
+        "Away Team": "Hibernian",
+        "Home": 2.65,
+        "Draw": 3.55,
+        "Away": 2.47
+    },
+    {
+        "Home Team": "St Johnstone",
+        "Away Team": "Kilmarnock",
+        "Home": 3.55,
+        "Draw": 3.45,
+        "Away": 2.05
+    },
+    {
+        "Home Team": "Alloa",
+        "Away Team": "Montrose",
+        "Home": 2.12,
+        "Draw": 3.65,
+        "Away": 2.95
+    },
+    {
+        "Home Team": "Annan",
+        "Away Team": "Cove Rangers",
+        "Home": 3.05,
+        "Draw": 3.65,
+        "Away": 2.07
+    },
+    {
+        "Home Team": "Kelty Hearts",
+        "Away Team": "Stirling",
+        "Home": 2.25,
+        "Draw": 3.45,
+        "Away": 2.85
+    },
+    {
+        "Home Team": "Queen of South",
+        "Away Team": "Edinburgh City",
+        "Home": 1.09,
+        "Draw": 8.5,
+        "Away": 20.5
+    },
+    {
+        "Home Team": "Dumbarton",
+        "Away Team": "Clyde",
+        "Home": 1.85,
+        "Draw": 3.75,
+        "Away": 3.6
+    },
+    {
+        "Home Team": "East Fife",
+        "Away Team": "Bonnyrigg Rose",
+        "Home": 1.95,
+        "Draw": 3.3,
+        "Away": 3.65
+    },
+    {
+        "Home Team": "Peterhead",
+        "Away Team": "Forfar Athletic",
+        "Home": 1.95,
+        "Draw": 3.1,
+        "Away": 4.0
+    },
+    {
+        "Home Team": "Spartans",
+        "Away Team": "Stranraer",
+        "Home": 1.9,
+        "Draw": 3.6,
+        "Away": 3.6
+    },
+    {
+        "Home Team": "Stenhousemuir",
+        "Away Team": "Elgin City",
+        "Home": 1.55,
+        "Draw": 3.85,
+        "Away": 5.4
+    },
+    {
+        "Home Team": "Rayo Vallecano",
+        "Away Team": "Getafe",
+        "Home": 2.22,
+        "Draw": 3.2,
+        "Away": 3.6
+    },
+    {
+        "Home Team": "Cosenza",
+        "Away Team": "Palermo",
+        "Home": 2.85,
+        "Draw": 3.2,
+        "Away": 2.5
+    },
+    {
+        "Home Team": "Lecco",
+        "Away Team": "Reggiana",
+        "Home": 2.75,
+        "Draw": 3.1,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Parma",
+        "Away Team": "Spezia",
+        "Home": 1.72,
+        "Draw": 3.85,
+        "Away": 4.55
+    },
+    {
+        "Home Team": "Gijon",
+        "Away Team": "Cartagena SAD",
+        "Home": 1.7,
+        "Draw": 3.6,
+        "Away": 5.0
+    },
+    {
+        "Home Team": "Vitoria Guimaraes",
+        "Away Team": "SC Farense",
+        "Home": 1.55,
+        "Draw": 3.9,
+        "Away": 6.2
+    },
+    {
+        "Home Team": "PSV",
+        "Away Team": "Vitesse",
+        "Home": 1.06,
+        "Draw": 14.2,
+        "Away": 36.0
+    },
+    {
+        "Home Team": "Volos",
+        "Away Team": "Atromitos",
+        "Home": 2.2,
+        "Draw": 3.1,
+        "Away": 3.5
+    },
+    {
+        "Home Team": "Benfica B",
+        "Away Team": "AVS",
+        "Home": 2.65,
+        "Draw": 3.45,
+        "Away": 2.5
+    },
+    {
+        "Home Team": "Tondela",
+        "Away Team": "Penafiel",
+        "Home": 1.95,
+        "Draw": 3.35,
+        "Away": 4.0
+    },
+    {
+        "Home Team": "Slavia Sofia",
+        "Away Team": "Hebar",
+        "Home": 1.4,
+        "Draw": 4.4,
+        "Away": 8.5
+    },
+    {
+        "Home Team": "Strasbourg",
+        "Away Team": "Reims",
+        "Home": 2.65,
+        "Draw": 3.4,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Austria Lustenau",
+        "Away Team": "Altach",
+        "Home": 3.95,
+        "Draw": 3.35,
+        "Away": 1.95
+    },
+    {
+        "Home Team": "Tirol",
+        "Away Team": "BW Linz",
+        "Home": 2.6,
+        "Draw": 3.15,
+        "Away": 2.75
+    },
+    {
+        "Home Team": "Wolfsberger AC",
+        "Away Team": "Austria Vienna",
+        "Home": 2.8,
+        "Draw": 3.25,
+        "Away": 2.55
+    },
+    {
+        "Home Team": "Debrecen",
+        "Away Team": "Kecskemeti TE",
+        "Home": 1.75,
+        "Draw": 3.65,
+        "Away": 4.7
+    },
+    {
+        "Home Team": "Puszcza",
+        "Away Team": "Lech Poznan",
+        "Home": 4.6,
+        "Draw": 3.65,
+        "Away": 1.75
+    },
+    {
+        "Home Team": "Wisla Plock",
+        "Away Team": "Wisla",
+        "Home": 3.0,
+        "Draw": 3.8,
+        "Away": 2.15
+    },
+    {
+        "Home Team": "Torino",
+        "Away Team": "Juventus",
+        "Home": 3.6,
+        "Draw": 3.15,
+        "Away": 2.25
+    },
+    {
+        "Home Team": "Adana Demirspor",
+        "Away Team": "Kayserispor",
+        "Home": 1.92,
+        "Draw": 3.7,
+        "Away": 3.7
+    },
+    {
+        "Home Team": "Besiktas",
+        "Away Team": "Samsunspor",
+        "Home": 1.77,
+        "Draw": 3.65,
+        "Away": 4.45
+    },
+    {
+        "Home Team": "Banska Bystrica",
+        "Away Team": "Michalovce",
+        "Home": 1.77,
+        "Draw": 3.8,
+        "Away": 4.25
+    },
+    {
+        "Home Team": "Kosice",
+        "Away Team": "Skalica",
+        "Home": 2.4,
+        "Draw": 3.15,
+        "Away": 3.05
+    },
+    {
+        "Home Team": "Trencin",
+        "Away Team": "Z. Moravce-Vrable",
+        "Home": 1.35,
+        "Draw": 5.05,
+        "Away": 8.1
+    },
+    {
+        "Home Team": "Hradec Kralove",
+        "Away Team": "Slovacko",
+        "Home": 2.48,
+        "Draw": 3.3,
+        "Away": 2.8
+    },
+    {
+        "Home Team": "Grasshoppers",
+        "Away Team": "Lugano",
+        "Home": 3.2,
+        "Draw": 3.7,
+        "Away": 2.1
+    },
+    {
+        "Home Team": "Lausanne",
+        "Away Team": "Zurich",
+        "Home": 2.45,
+        "Draw": 3.4,
+        "Away": 2.8
+    },
+    {
+        "Home Team": "Baden",
+        "Away Team": "Sion",
+        "Home": 7.5,
+        "Draw": 5.05,
+        "Away": 1.37
+    },
+    {
+        "Home Team": "Thun",
+        "Away Team": "Bellinzona",
+        "Home": 1.5,
+        "Draw": 4.2,
+        "Away": 6.55
+    },
+    {
+        "Home Team": "KV Mechelen",
+        "Away Team": "Westerlo",
+        "Home": 1.78,
+        "Draw": 3.9,
+        "Away": 4.5
+    },
+    {
+        "Home Team": "Bournemouth",
+        "Away Team": "Manchester Utd",
+        "Home": 2.43,
+        "Draw": 4.0,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Stuttgart",
+        "Away Team": "Eintracht Frankfurt",
+        "Home": 1.58,
+        "Draw": 4.45,
+        "Away": 5.5
+    },
+    {
+        "Home Team": "Mallorca",
+        "Away Team": "Real Madrid",
+        "Home": 4.8,
+        "Draw": 3.7,
+        "Away": 1.78
+    },
+    {
+        "Home Team": "Helsingor",
+        "Away Team": "Hillerod",
+        "Home": 4.1,
+        "Draw": 3.9,
+        "Away": 1.77
+    },
+    {
+        "Home Team": "Giannina",
+        "Away Team": "Asteras Tripolis",
+        "Home": 2.4,
+        "Draw": 3.15,
+        "Away": 3.05
+    },
+    {
+        "Home Team": "Lokomotiv Moscow",
+        "Away Team": "CSKA Moscow",
+        "Home": 2.8,
+        "Draw": 3.35,
+        "Away": 2.47
+    },
+    {
+        "Home Team": "Larne",
+        "Away Team": "Cliftonville",
+        "Home": 1.72,
+        "Draw": 4.25,
+        "Away": 4.05
+    },
+    {
+        "Home Team": "Hamilton",
+        "Away Team": "Falkirk",
+        "Home": 2.9,
+        "Draw": 3.5,
+        "Away": 2.2
+    },
+    {
+        "Home Team": "Valladolid",
+        "Away Team": "Eldense",
+        "Home": 1.75,
+        "Draw": 3.5,
+        "Away": 5.0
+    },
+    {
+        "Home Team": "AZ Alkmaar",
+        "Away Team": "Waalwijk",
+        "Home": 1.34,
+        "Draw": 5.6,
+        "Away": 8.8
+    },
+    {
+        "Home Team": "Porto",
+        "Away Team": "Famalicao",
+        "Home": 1.29,
+        "Draw": 5.05,
+        "Away": 10.9
+    },
+    {
+        "Home Team": "Bordeaux",
+        "Away Team": "Bastia",
+        "Home": 2.05,
+        "Draw": 3.35,
+        "Away": 3.65
+    },
+    {
+        "Home Team": "Caen",
+        "Away Team": "Rodez",
+        "Home": 2.22,
+        "Draw": 3.5,
+        "Away": 3.05
+    },
+    {
+        "Home Team": "Concarneau",
+        "Away Team": "Amiens",
+        "Home": 2.9,
+        "Draw": 2.9,
+        "Away": 2.7
+    },
+    {
+        "Home Team": "Dunkerque",
+        "Away Team": "Guingamp",
+        "Home": 3.6,
+        "Draw": 3.05,
+        "Away": 2.2
+    },
+    {
+        "Home Team": "Laval",
+        "Away Team": "Annecy",
+        "Home": 2.15,
+        "Draw": 3.1,
+        "Away": 3.65
+    },
+    {
+        "Home Team": "Quevilly Rouen",
+        "Away Team": "Auxerre",
+        "Home": 3.9,
+        "Draw": 3.25,
+        "Away": 2.0
+    },
+    {
+        "Home Team": "Troyes",
+        "Away Team": "Paris FC",
+        "Home": 3.35,
+        "Draw": 3.2,
+        "Away": 2.23
+    },
+    {
+        "Home Team": "Valenciennes",
+        "Away Team": "Pau",
+        "Home": 2.95,
+        "Draw": 3.2,
+        "Away": 2.4
+    },
+    {
+        "Home Team": "Kifisias",
+        "Away Team": "Panetolikos",
+        "Home": 2.15,
+        "Draw": 3.25,
+        "Away": 3.45
+    },
+    {
+        "Home Team": "Cherno More",
+        "Away Team": "Levski Sofia",
+        "Home": 2.42,
+        "Draw": 2.95,
+        "Away": 3.2
+    },
+    {
+        "Home Team": "Paks",
+        "Away Team": "MOL Fehervar",
+        "Home": 1.68,
+        "Draw": 4.0,
+        "Away": 4.6
+    },
+    {
+        "Home Team": "Ried",
+        "Away Team": "Bregenz",
+        "Home": 1.3,
+        "Draw": 5.5,
+        "Away": 9.1
+    },
+    {
+        "Home Team": "Deinze",
+        "Away Team": "Lommel",
+        "Home": 2.1,
+        "Draw": 3.7,
+        "Away": 3.2
+    },
+    {
+        "Home Team": "Dender",
+        "Away Team": "Waregem",
+        "Home": 2.0,
+        "Draw": 3.65,
+        "Away": 3.45
+    },
+    {
+        "Home Team": "Mushuc Runa",
+        "Away Team": "Tecnico U.",
+        "Home": 2.12,
+        "Draw": 3.25,
+        "Away": 3.55
+    },
+    {
+        "Home Team": "Rakow",
+        "Away Team": "Legia",
+        "Home": 2.15,
+        "Draw": 3.3,
+        "Away": 3.4
+    },
+    {
+        "Home Team": "Chrobry Glogow",
+        "Away Team": "Legnica",
+        "Home": 3.25,
+        "Draw": 3.35,
+        "Away": 2.2
+    },
+    {
+        "Home Team": "Schalke",
+        "Away Team": "Nurnberg",
+        "Home": 1.75,
+        "Draw": 4.15,
+        "Away": 4.45
+    },
+    {
+        "Home Team": "U. Cluj",
+        "Away Team": "Petrolul",
+        "Home": 1.98,
+        "Draw": 3.05,
+        "Away": 4.35
+    },
+    {
+        "Home Team": "St. Gallen",
+        "Away Team": "Yverdon",
+        "Home": 1.45,
+        "Draw": 5.0,
+        "Away": 6.0
+    },
+    {
+        "Home Team": "Bologna",
+        "Away Team": "Monza",
+        "Home": 1.58,
+        "Draw": 4.1,
+        "Away": 6.15
+    },
+    {
+        "Home Team": "Genk",
+        "Away Team": "Cercle Brugge",
+        "Home": 1.95,
+        "Draw": 3.8,
+        "Away": 3.8
+    },
+    {
+        "Home Team": "Cadiz",
+        "Away Team": "Barcelona",
+        "Home": 4.55,
+        "Draw": 3.6,
+        "Away": 1.85
+    },
+    {
+        "Home Team": "Rennes",
+        "Away Team": "Toulouse",
+        "Home": 1.88,
+        "Draw": 3.75,
+        "Away": 4.1
+    },
+    {
+        "Home Team": "Almere City",
+        "Away Team": "Sparta Rotterdam",
+        "Home": 2.7,
+        "Draw": 3.35,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Fortaleza FC",
+        "Away Team": "Once Caldas",
+        "Home": 2.15,
+        "Draw": 3.0,
+        "Away": 3.85
+    },
+    {
+        "Home Team": "Levante",
+        "Away Team": "Amorebieta",
+        "Home": 1.7,
+        "Draw": 3.6,
+        "Away": 5.05
+    },
+    {
+        "Home Team": "Estoril",
+        "Away Team": "Braga",
+        "Home": 4.0,
+        "Draw": 4.0,
+        "Away": 1.78
+    },
+    {
+        "Home Team": "Longford",
+        "Away Team": "Bray",
+        "Home": 2.65,
+        "Draw": 3.3,
+        "Away": 2.45
+    },
+    {
+        "Home Team": "Portland Timbers",
+        "Away Team": "Los Angeles FC",
+        "Home": 2.75,
+        "Draw": 3.55,
+        "Away": 2.4
+    },
+    {
+        "Home Team": "Santa Fe",
+        "Away Team": "Atl. Nacional",
+        "Home": 2.15,
+        "Draw": 3.1,
+        "Away": 3.65
+    },
+    {
+        "Home Team": "Criciuma",
+        "Away Team": "Juventude",
+        "Home": 2.18,
+        "Draw": 3.25,
+        "Away": 3.65
+    },
+    {
+        "Home Team": "Internacional",
+        "Away Team": "Bahia",
+        "Home": 1.8,
+        "Draw": 3.65,
+        "Away": 4.75
+    },
+    {
+        "Home Team": "U. Espanola",
+        "Away Team": "Everton de Vina",
+        "Home": 2.65,
+        "Draw": 3.25,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Pachuca",
+        "Away Team": "Guadalajara Chivas",
+        "Home": 2.2,
+        "Draw": 3.25,
+        "Away": 3.3
+    },
+    {
+        "Home Team": "Junior",
+        "Away Team": "Envigado",
+        "Home": 1.38,
+        "Draw": 4.65,
+        "Away": 8.2
+    },
+    {
+        "Home Team": "Charlotte",
+        "Away Team": "Toronto",
+        "Home": 1.7,
+        "Draw": 3.65,
+        "Away": 5.05
+    },
+    {
+        "Home Team": "DC United",
+        "Away Team": "Orlando City",
+        "Home": 2.05,
+        "Draw": 3.8,
+        "Away": 3.2
+    },
+    {
+        "Home Team": "Montreal",
+        "Away Team": "FC Cincinnati",
+        "Home": 2.47,
+        "Draw": 3.55,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "New York City",
+        "Away Team": "New England Revolution",
+        "Home": 1.73,
+        "Draw": 3.75,
+        "Away": 4.6
+    },
+    {
+        "Home Team": "New York Red Bulls",
+        "Away Team": "Chicago Fire",
+        "Home": 1.6,
+        "Draw": 3.85,
+        "Away": 5.65
+    },
+    {
+        "Home Team": "Fluminense",
+        "Away Team": "Bragantino",
+        "Home": 2.15,
+        "Draw": 3.35,
+        "Away": 3.65
+    },
+    {
+        "Home Team": "Sao Paulo",
+        "Away Team": "Fortaleza",
+        "Home": 1.95,
+        "Draw": 3.45,
+        "Away": 4.15
+    },
+    {
+        "Home Team": "FC Dallas",
+        "Away Team": "Seattle Sounders",
+        "Home": 2.85,
+        "Draw": 3.0,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Minnesota United",
+        "Away Team": "Houston Dynamo",
+        "Home": 2.05,
+        "Draw": 3.3,
+        "Away": 3.6
+    },
+    {
+        "Home Team": "Club America",
+        "Away Team": "Toluca",
+        "Home": 1.8,
+        "Draw": 3.65,
+        "Away": 4.3
+    },
+    {
+        "Home Team": "Pereira",
+        "Away Team": "Jaguares de Cordoba",
+        "Home": 1.65,
+        "Draw": 3.6,
+        "Away": 5.7
+    },
+    {
+        "Home Team": "Real Salt Lake",
+        "Away Team": "Columbus Crew",
+        "Home": 2.3,
+        "Draw": 3.5,
+        "Away": 2.9
+    },
+    {
+        "Home Team": "Vancouver Whitecaps",
+        "Away Team": "Los Angeles Galaxy",
+        "Home": 2.1,
+        "Draw": 3.9,
+        "Away": 3.0
+    },
+    {
+        "Home Team": "San Jose Earthquakes",
+        "Away Team": "Colorado Rapids",
+        "Home": 2.15,
+        "Draw": 3.35,
+        "Away": 3.35
+    },
+    {
+        "Home Team": "Monterrey",
+        "Away Team": "U.A.N.L.- Tigres",
+        "Home": 2.15,
+        "Draw": 3.15,
+        "Away": 3.55
+    },
+    {
+        "Home Team": "Melbourne City",
+        "Away Team": "Perth Glory",
+        "Home": 1.45,
+        "Draw": 5.0,
+        "Away": 6.0
+    },
+    {
+        "Home Team": "Incheon",
+        "Away Team": "Daegu",
+        "Home": 2.37,
+        "Draw": 3.1,
+        "Away": 3.15
+    },
+    {
+        "Home Team": "Lafnitz",
+        "Away Team": "Amstetten",
+        "Home": 2.3,
+        "Draw": 3.65,
+        "Away": 2.8
+    },
+    {
+        "Home Team": "Sturm Graz (Am)",
+        "Away Team": "Horn",
+        "Home": 2.85,
+        "Draw": 3.6,
+        "Away": 2.3
+    },
+    {
+        "Home Team": "Orenburg",
+        "Away Team": "Nizhny Novgorod",
+        "Home": 2.0,
+        "Draw": 3.4,
+        "Away": 3.75
+    },
+    {
+        "Home Team": "Pacos Ferreira",
+        "Away Team": "Nacional",
+        "Home": 2.42,
+        "Draw": 3.4,
+        "Away": 2.8
+    },
+    {
+        "Home Team": "Heracles",
+        "Away Team": "Heerenveen",
+        "Home": 2.75,
+        "Draw": 3.6,
+        "Away": 2.5
+    },
+    {
+        "Home Team": "Napoli",
+        "Away Team": "Frosinone",
+        "Home": 1.37,
+        "Draw": 5.45,
+        "Away": 7.9
+    },
+    {
+        "Home Team": "Pendikspor",
+        "Away Team": "Basaksehir",
+        "Home": 2.6,
+        "Draw": 3.35,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "LKS Lodz",
+        "Away Team": "Radomiak Radom",
+        "Home": 3.65,
+        "Draw": 3.2,
+        "Away": 2.1
+    },
+    {
+        "Home Team": "Botosani",
+        "Away Team": "U Craiova 1948",
+        "Home": 2.42,
+        "Draw": 3.35,
+        "Away": 2.85
+    },
+    {
+        "Home Team": "Lechia Gdansk",
+        "Away Team": "Termalica B-B.",
+        "Home": 1.6,
+        "Draw": 4.15,
+        "Away": 5.1
+    },
+    {
+        "Home Team": "Le Havre",
+        "Away Team": "Nantes",
+        "Home": 2.6,
+        "Draw": 3.1,
+        "Away": 3.0
+    },
+    {
+        "Home Team": "Ross County",
+        "Away Team": "Rangers",
+        "Home": 8.5,
+        "Draw": 5.55,
+        "Away": 1.31
+    },
+    {
+        "Home Team": "Ural",
+        "Away Team": "Dynamo Moscow",
+        "Home": 3.1,
+        "Draw": 3.5,
+        "Away": 2.2
+    },
+    {
+        "Home Team": "Club Brugge",
+        "Away Team": "Antwerp",
+        "Home": 1.75,
+        "Draw": 4.05,
+        "Away": 4.45
+    },
+    {
+        "Home Team": "Beveren",
+        "Away Team": "Beerschot VA",
+        "Home": 2.7,
+        "Draw": 3.7,
+        "Away": 2.4
+    },
+    {
+        "Home Team": "Braunschweig",
+        "Away Team": "Hannover",
+        "Home": 2.95,
+        "Draw": 3.4,
+        "Away": 2.45
+    },
+    {
+        "Home Team": "Magdeburg",
+        "Away Team": "Hamburger SV",
+        "Home": 3.3,
+        "Draw": 4.0,
+        "Away": 2.05
+    },
+    {
+        "Home Team": "St. Pauli",
+        "Away Team": "Elversberg",
+        "Home": 1.52,
+        "Draw": 4.75,
+        "Away": 5.85
+    },
+    {
+        "Home Team": "Regensburg",
+        "Away Team": "Munich 1860",
+        "Home": 2.02,
+        "Draw": 3.4,
+        "Away": 3.65
+    },
+    {
+        "Home Team": "Las Palmas",
+        "Away Team": "Sevilla",
+        "Home": 2.8,
+        "Draw": 3.3,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Lyngby",
+        "Away Team": "Hvidovre",
+        "Home": 1.77,
+        "Draw": 3.95,
+        "Away": 4.1
+    },
+    {
+        "Home Team": "Vejle",
+        "Away Team": "Randers FC",
+        "Home": 2.95,
+        "Draw": 3.25,
+        "Away": 2.4
+    },
+    {
+        "Home Team": "Fredericia",
+        "Away Team": "Sonderjyske",
+        "Home": 3.8,
+        "Draw": 3.8,
+        "Away": 1.87
+    },
+    {
+        "Home Team": "R. Oviedo",
+        "Away Team": "Mirandes",
+        "Home": 1.65,
+        "Draw": 3.7,
+        "Away": 5.35
+    },
+    {
+        "Home Team": "Basel",
+        "Away Team": "Servette",
+        "Home": 3.35,
+        "Draw": 3.5,
+        "Away": 2.08
+    },
+    {
+        "Home Team": "Wil",
+        "Away Team": "Stade Nyonnais",
+        "Home": 2.05,
+        "Draw": 3.5,
+        "Away": 3.4
+    },
+    {
+        "Home Team": "Sittard",
+        "Away Team": "Feyenoord",
+        "Home": 9.2,
+        "Draw": 5.45,
+        "Away": 1.34
+    },
+    {
+        "Home Team": "Utrecht",
+        "Away Team": "G.A. Eagles",
+        "Home": 1.75,
+        "Draw": 4.1,
+        "Away": 4.45
+    },
+    {
+        "Home Team": "Hartberg",
+        "Away Team": "Sturm Graz",
+        "Home": 4.25,
+        "Draw": 3.45,
+        "Away": 1.85
+    },
+    {
+        "Home Team": "Viking",
+        "Away Team": "Brann",
+        "Home": 2.5,
+        "Draw": 3.8,
+        "Away": 2.5
+    },
+    {
+        "Home Team": "Liverpool",
+        "Away Team": "Crystal Palace",
+        "Home": 1.25,
+        "Draw": 6.6,
+        "Away": 11.5
+    },
+    {
+        "Home Team": "West Ham",
+        "Away Team": "Fulham",
+        "Home": 2.27,
+        "Draw": 3.85,
+        "Away": 2.95
+    },
+    {
+        "Home Team": "Sassuolo",
+        "Away Team": "Milan",
+        "Home": 4.55,
+        "Draw": 4.2,
+        "Away": 1.72
+    },
+    {
+        "Home Team": "Clermont",
+        "Away Team": "Montpellier",
+        "Home": 3.3,
+        "Draw": 3.6,
+        "Away": 2.17
+    },
+    {
+        "Home Team": "Hatayspor",
+        "Away Team": "Istanbulspor",
+        "Home": 1.5,
+        "Draw": 4.2,
+        "Away": 6.2
+    },
+    {
+        "Home Team": "Rizespor",
+        "Away Team": "Antalyaspor",
+        "Home": 2.25,
+        "Draw": 3.6,
+        "Away": 2.95
+    },
+    {
+        "Home Team": "Jagiellonia",
+        "Away Team": "Cracovia",
+        "Home": 1.75,
+        "Draw": 3.8,
+        "Away": 4.4
+    },
+    {
+        "Home Team": "Mafra",
+        "Away Team": "Feirense",
+        "Home": 1.9,
+        "Draw": 3.55,
+        "Away": 3.9
+    },
+    {
+        "Home Team": "Ostrava",
+        "Away Team": "Karvina",
+        "Home": 1.35,
+        "Draw": 4.8,
+        "Away": 8.2
+    },
+    {
+        "Home Team": "Sigma Olomouc",
+        "Away Team": "Jablonec",
+        "Home": 2.12,
+        "Draw": 3.5,
+        "Away": 3.3
+    },
+    {
+        "Home Team": "Zlin",
+        "Away Team": "Pardubice",
+        "Home": 1.9,
+        "Draw": 3.55,
+        "Away": 3.95
+    },
+    {
+        "Home Team": "Darmstadt",
+        "Away Team": "Freiburg",
+        "Home": 4.05,
+        "Draw": 4.1,
+        "Away": 1.82
+    },
+    {
+        "Home Team": "Fakel Voronezh",
+        "Away Team": "Rostov",
+        "Home": 2.6,
+        "Draw": 3.3,
+        "Away": 2.7
+    },
+    {
+        "Home Team": "Kortrijk",
+        "Away Team": "Charleroi",
+        "Home": 2.9,
+        "Draw": 3.5,
+        "Away": 2.43
+    },
+    {
+        "Home Team": "Standard Liege U23",
+        "Away Team": "Seraing",
+        "Home": 4.05,
+        "Draw": 4.1,
+        "Away": 1.75
+    },
+    {
+        "Home Team": "Etar",
+        "Away Team": "Krumovgrad",
+        "Home": 3.55,
+        "Draw": 3.15,
+        "Away": 2.15
+    },
+    {
+        "Home Team": "Aarhus",
+        "Away Team": "Brondby",
+        "Home": 3.3,
+        "Draw": 3.45,
+        "Away": 2.12
+    },
+    {
+        "Home Team": "Panathinaikos",
+        "Away Team": "Lamia",
+        "Home": 1.15,
+        "Draw": 7.1,
+        "Away": 20.0
+    },
+    {
+        "Home Team": "Granada",
+        "Away Team": "Alaves",
+        "Home": 3.15,
+        "Draw": 3.15,
+        "Away": 2.45
+    },
+    {
+        "Home Team": "Venezia",
+        "Away Team": "Brescia",
+        "Home": 1.7,
+        "Draw": 3.65,
+        "Away": 4.95
+    },
+    {
+        "Home Team": "Albacete",
+        "Away Team": "Tenerife",
+        "Home": 2.18,
+        "Draw": 3.05,
+        "Away": 3.6
+    },
+    {
+        "Home Team": "FC Andorra",
+        "Away Team": "Eibar",
+        "Home": 2.7,
+        "Draw": 3.15,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Estrela",
+        "Away Team": "Rio Ave",
+        "Home": 2.5,
+        "Draw": 3.2,
+        "Away": 2.85
+    },
+    {
+        "Home Team": "Arminia Bielefeld",
+        "Away Team": "RW Essen",
+        "Home": 2.07,
+        "Draw": 3.95,
+        "Away": 3.05
+    },
+    {
+        "Home Team": "Leixoes",
+        "Away Team": "Torreense",
+        "Home": 2.23,
+        "Draw": 3.1,
+        "Away": 3.45
+    },
+    {
+        "Home Team": "Lausanne Ouchy",
+        "Away Team": "Winterthur",
+        "Home": 3.05,
+        "Draw": 3.7,
+        "Away": 2.15
+    },
+    {
+        "Home Team": "Young Boys",
+        "Away Team": "Luzern",
+        "Home": 1.8,
+        "Draw": 4.05,
+        "Away": 3.9
+    },
+    {
+        "Home Team": "Ajax",
+        "Away Team": "Twente",
+        "Home": 2.6,
+        "Draw": 3.7,
+        "Away": 2.6
+    },
+    {
+        "Home Team": "Venlo",
+        "Away Team": "Groningen",
+        "Home": 4.95,
+        "Draw": 4.1,
+        "Away": 1.62
+    },
+    {
+        "Home Team": "Rapid Vienna",
+        "Away Team": "A. Klagenfurt",
+        "Home": 1.55,
+        "Draw": 4.25,
+        "Away": 5.65
+    },
+    {
+        "Home Team": "Tromso",
+        "Away Team": "Haugesund",
+        "Home": 1.7,
+        "Draw": 3.9,
+        "Away": 4.55
+    },
+    {
+        "Home Team": "Dinamo Bucuresti",
+        "Away Team": "Poli Iasi",
+        "Home": 2.15,
+        "Draw": 3.2,
+        "Away": 3.5
+    },
+    {
+        "Home Team": "Arsenal",
+        "Away Team": "Aston Villa",
+        "Home": 1.27,
+        "Draw": 6.35,
+        "Away": 10.4
+    },
+    {
+        "Home Team": "Bayer Leverkusen",
+        "Away Team": "Werder Bremen",
+        "Home": 1.2,
+        "Draw": 7.4,
+        "Away": 14.1
+    },
+    {
+        "Home Team": "Podbrezova",
+        "Away Team": "Trnava",
+        "Home": 3.3,
+        "Draw": 3.4,
+        "Away": 2.15
+    },
+    {
+        "Home Team": "Udinese",
+        "Away Team": "Roma",
+        "Home": 3.55,
+        "Draw": 3.4,
+        "Away": 2.15
+    },
+    {
+        "Home Team": "Karagumruk",
+        "Away Team": "Fenerbahce",
+        "Home": 6.4,
+        "Draw": 4.75,
+        "Away": 1.45
+    },
+    {
+        "Home Team": "Midtjylland",
+        "Away Team": "FC Copenhagen",
+        "Home": 2.7,
+        "Draw": 3.3,
+        "Away": 2.55
+    },
+    {
+        "Home Team": "Krylya Sovetov",
+        "Away Team": "Rubin Kazan",
+        "Home": 2.2,
+        "Draw": 3.1,
+        "Away": 3.5
+    },
+    {
+        "Home Team": "Plzen",
+        "Away Team": "Slavia Prague",
+        "Home": 5.15,
+        "Draw": 3.95,
+        "Away": 1.62
+    },
+    {
+        "Home Team": "Ath Bilbao",
+        "Away Team": "Villarreal",
+        "Home": 1.73,
+        "Draw": 3.9,
+        "Away": 4.85
+    },
+    {
+        "Home Team": "Anderlecht",
+        "Away Team": "Royale Union SG",
+        "Home": 2.75,
+        "Draw": 3.55,
+        "Away": 2.5
+    },
+    {
+        "Home Team": "Beroe",
+        "Away Team": "Lok. Plovdiv",
+        "Home": 3.55,
+        "Draw": 3.55,
+        "Away": 2.0
+    },
+    {
+        "Home Team": "O'Higgins",
+        "Away Team": "Huachipato",
+        "Home": 2.4,
+        "Draw": 3.35,
+        "Away": 2.9
+    },
+    {
+        "Home Team": "U. De Chile",
+        "Away Team": "Coquimbo",
+        "Home": 1.8,
+        "Draw": 3.65,
+        "Away": 4.3
+    },
+    {
+        "Home Team": "Zaragoza",
+        "Away Team": "Elche",
+        "Home": 3.05,
+        "Draw": 2.85,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Burgos",
+        "Away Team": "Racing Santander",
+        "Home": 2.4,
+        "Draw": 3.35,
+        "Away": 2.9
+    },
+    {
+        "Home Team": "Arouca",
+        "Away Team": "Boavista",
+        "Home": 1.67,
+        "Draw": 3.95,
+        "Away": 4.75
+    },
+    {
+        "Home Team": "Portimonense",
+        "Away Team": "Casa Pia",
+        "Home": 2.65,
+        "Draw": 3.4,
+        "Away": 2.55
+    },
+    {
+        "Home Team": "Leuven",
+        "Away Team": "Gent",
+        "Home": 3.9,
+        "Draw": 4.0,
+        "Away": 1.87
+    },
+    {
+        "Home Team": "Patro Eisden",
+        "Away Team": "Oostende",
+        "Home": 1.8,
+        "Draw": 3.65,
+        "Away": 4.25
+    },
+    {
+        "Home Team": "Lillestrom",
+        "Away Team": "Bodo/Glimt",
+        "Home": 3.9,
+        "Draw": 3.8,
+        "Away": 1.85
+    },
+    {
+        "Home Team": "AEK Athens",
+        "Away Team": "Aris",
+        "Home": 1.3,
+        "Draw": 5.35,
+        "Away": 9.5
+    },
+    {
+        "Home Team": "Freiburg II",
+        "Away Team": "SG Dynamo Dresden",
+        "Home": 6.75,
+        "Draw": 4.45,
+        "Away": 1.45
+    },
+    {
+        "Home Team": "Nijmegen",
+        "Away Team": "Zwolle",
+        "Home": 1.58,
+        "Draw": 4.65,
+        "Away": 5.2
+    },
+    {
+        "Home Team": "CFR Cluj",
+        "Away Team": "FCSB",
+        "Home": 2.35,
+        "Draw": 3.35,
+        "Away": 2.95
+    },
+    {
+        "Home Team": "Atlanta Utd",
+        "Away Team": "Philadelphia Union",
+        "Home": 1.98,
+        "Draw": 3.8,
+        "Away": 3.4
+    },
+    {
+        "Home Team": "Inter",
+        "Away Team": "Cagliari",
+        "Home": 1.19,
+        "Draw": 7.6,
+        "Away": 14.8
+    },
+    {
+        "Home Team": "Lyon",
+        "Away Team": "Brest",
+        "Home": 2.23,
+        "Draw": 3.45,
+        "Away": 3.3
+    },
+    {
+        "Home Team": "Real Sociedad",
+        "Away Team": "Almeria",
+        "Home": 1.37,
+        "Draw": 5.15,
+        "Away": 8.6
+    },
+    {
+        "Home Team": "Athletico-PR",
+        "Away Team": "Cuiaba",
+        "Home": 1.58,
+        "Draw": 3.9,
+        "Away": 6.6
+    },
+    {
+        "Home Team": "Atletico GO",
+        "Away Team": "Flamengo RJ",
+        "Home": 4.15,
+        "Draw": 3.75,
+        "Away": 1.87
+    },
+    {
+        "Home Team": "Corinthians",
+        "Away Team": "Atletico-MG",
+        "Home": 2.75,
+        "Draw": 3.05,
+        "Away": 2.85
+    },
+    {
+        "Home Team": "Vasco",
+        "Away Team": "Gremio",
+        "Home": 2.3,
+        "Draw": 3.25,
+        "Away": 3.35
+    },
+    {
+        "Home Team": "Chico",
+        "Away Team": "Boyaca Patriotas",
+        "Home": 1.92,
+        "Draw": 3.05,
+        "Away": 4.65
+    },
+    {
+        "Home Team": "Nublense",
+        "Away Team": "Palestino",
+        "Home": 2.65,
+        "Draw": 3.25,
+        "Away": 2.65
+    },
+    {
+        "Home Team": "Ferrol",
+        "Away Team": "Huesca",
+        "Home": 2.45,
+        "Draw": 2.7,
+        "Away": 3.55
+    },
+    {
+        "Home Team": "Benfica",
+        "Away Team": "Moreirense",
+        "Home": 1.28,
+        "Draw": 5.55,
+        "Away": 10.0
+    },
+    {
+        "Home Team": "Maritimo",
+        "Away Team": "Santa Clara",
+        "Home": 2.65,
+        "Draw": 2.85,
+        "Away": 3.0
+    },
+    {
+        "Home Team": "Cruzeiro",
+        "Away Team": "Botafogo RJ",
+        "Home": 2.3,
+        "Draw": 3.25,
+        "Away": 3.35
+    },
+    {
+        "Home Team": "St. Louis City",
+        "Away Team": "Austin FC",
+        "Home": 1.75,
+        "Draw": 3.9,
+        "Away": 4.3
+    },
+    {
+        "Home Team": "Ind. Medellin",
+        "Away Team": "Bucaramanga",
+        "Home": 1.93,
+        "Draw": 3.25,
+        "Away": 4.2
+    },
+    {
+        "Home Team": "Vitoria",
+        "Away Team": "Palmeiras",
+        "Home": 4.55,
+        "Draw": 4.0,
+        "Away": 1.75
+    },
+    {
+        "Home Team": "Dep. Pasto",
+        "Away Team": "Millonarios",
+        "Home": 3.05,
+        "Draw": 2.9,
+        "Away": 2.55
+    },
+    {
+        "Home Team": "Atlas",
+        "Away Team": "Atl. San Luis",
+        "Home": 1.98,
+        "Draw": 3.7,
+        "Away": 3.5
+    },
+    {
+        "Home Team": "U.N.A.M.- Pumas",
+        "Away Team": "Club Leon",
+        "Home": 1.95,
+        "Draw": 3.7,
+        "Away": 3.55
+    },
+    {
+        "Home Team": "A. Italiano",
+        "Away Team": "Union La Calera",
+        "Home": 2.25,
+        "Draw": 3.35,
+        "Away": 3.1
+    },
+    {
+        "Home Team": "Alianza",
+        "Away Team": "La Equidad",
+        "Home": 2.85,
+        "Draw": 2.85,
+        "Away": 2.8
+    },
+    {
+        "Home Team": "Juarez",
+        "Away Team": "Club Tijuana",
+        "Home": 2.4,
+        "Draw": 3.55,
+        "Away": 2.75
+    },
+    {
+        "Home Team": "Fiorentina",
+        "Away Team": "Genoa",
+        "Home": 1.87,
+        "Draw": 3.65,
+        "Away": 4.35
+    },
+    {
+        "Home Team": "Silkeborg",
+        "Away Team": "Nordsjaelland",
+        "Home": 3.1,
+        "Draw": 3.75,
+        "Away": 2.1
+    },
+    {
+        "Home Team": "Rapid Bucuresti",
+        "Away Team": "Sepsi Sf. Gheorghe",
+        "Home": 2.02,
+        "Draw": 3.4,
+        "Away": 3.65
+    },
+    {
+        "Home Team": "Alcorcon",
+        "Away Team": "Villarreal B",
+        "Home": 2.25,
+        "Draw": 3.15,
+        "Away": 3.35
+    },
+    {
+        "Home Team": "Atalanta",
+        "Away Team": "Verona",
+        "Home": 1.47,
+        "Draw": 4.7,
+        "Away": 6.75
+    },
+    {
+        "Home Team": "Chelsea",
+        "Away Team": "Everton",
+        "Home": 1.72,
+        "Draw": 4.15,
+        "Away": 4.55
+    },
+    {
+        "Home Team": "Osasuna",
+        "Away Team": "Valencia",
+        "Home": 2.55,
+        "Draw": 3.1,
+        "Away": 3.1
+    },
+    {
+        "Home Team": "Vizela",
+        "Away Team": "Chaves",
+        "Home": 2.03,
+        "Draw": 3.25,
+        "Away": 3.8
+    }
+]
